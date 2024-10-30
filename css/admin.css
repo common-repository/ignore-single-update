@@ -1,0 +1,849 @@
+.ignored-plugins-table {
+    --redcolor: #990814;
+    --greencolor: #009879;
+    --orangecolor: #E58A17;
+}
+
+.nothing-ignored {
+    background: white;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.swal2-container:not(.wordpress-admin-theme):not(.material-ui-theme) .swal2-styled.swal2-confirm,
+.swal2-container.wordpress-admin-theme .swal2-popup:not(.swal2-toast) .swal2-styled.swal2-confirm {
+    background-color: #2196F3;
+}
+
+body .swal2-container {
+    z-index: 9991;
+}
+
+body .swal2-container a, body .swal2-container a:hover {
+    color: #2196F3;
+}
+
+.ignored-plugins-table .heading-text svg {
+    vertical-align: text-bottom;
+    margin-right: 5px;
+}
+
+.ignored-plugins-table {
+    position: relative;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.ignored-plugins-table tbody:not(.empty) {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.ignored-plugins-table tbody:not(.refreshingtable) {
+    background: #fff;
+}
+
+.ignored-plugins-table tbody.empty {
+    height: 25px;
+}
+
+.ignored-plugins-table .heading-text, .ignored-plugins-table .heading-columns {
+    color: #ffffff;
+    text-align: left;
+}
+
+.ignored-plugins-table .expired .heading-text, .ignored-plugins-table .expired .heading-columns {
+    background-color: var(--greencolor);
+}
+
+.ignored-plugins-table .permanent .heading-text, .ignored-plugins-table .permanent .heading-columns {
+    background-color: var(--redcolor);
+}
+
+.ignored-plugins-table .ignored .heading-text,
+.ignored-plugins-table .ignored .heading-columns,
+.ignored-plugins-table .forced .heading-text,
+.ignored-plugins-table .forced .heading-columns {
+    background-color: var(--orangecolor);
+}
+
+.ignored-plugins-table tbody tr:last-child td:first-child {
+    border-bottom-left-radius: 10px;
+}
+
+.ignored-plugins-table tbody tr:last-child td:last-child {
+    border-bottom-right-radius: 10px;
+}
+
+.newer-version {
+    color: #009879;
+}
+
+.ignored-plugins-table th,
+.ignored-plugins-table td {
+    padding: 12px 15px;
+}
+
+.ignored-plugins-table tbody tr:not(:first-of-type) {
+    border-bottom: 1px solid #dddddd;
+}
+
+.ignored-plugins-table tbody tr:nth-of-type(odd):not(.heading-text) {
+    background-color: #f3f3f3;
+}
+
+.ignored-plugins-table tr:last-of-type {
+    border-bottom: 2px solid;
+}
+
+.ignored-plugins-table .expired tr:last-of-type {
+    border-bottom-color: var(--greencolor)
+}
+
+.ignored-plugins-table .permanent tr:last-of-type {
+    border-bottom-color: var(--redcolor);
+}
+
+.ignored-plugins-table .ignored tr:last-of-type, .ignored-plugins-table .forced tr:last-of-type {
+    border-bottom-color: var(--orangecolor);
+}
+
+.expired-time {
+    color: red
+}
+
+.ispu-tab {
+    margin-top: 12px
+}
+
+.ispu-settings table {
+    word-wrap: break-word;
+    max-width: 1000px;
+    table-layout: fixed;
+}
+
+.ispu-settings .dashicons {
+    cursor: pointer;;
+}
+
+select[multiple] {
+    display: none;
+}
+
+.ms-options-wrap {
+    width: 100%;
+}
+
+.ispu-settings .ms-options-wrap .ms-options {
+    overflow-x: hidden;
+}
+
+.ms-options-wrap li {
+    float: left;
+    width: 33%;
+}
+
+.ms-options-wrap li:nth-child(3n+1) {
+    clear: left;
+}
+
+
+.ispu-settings td, .ispu-settings th {
+    padding: 10px;
+    text-align: left;
+    min-height: 30px;
+    word-wrap: break-word;
+}
+
+.ispu-settings td {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    max-width: 700px;
+}
+
+.ispu-button {
+    border-radius: 5px;
+    height: 30px;
+    text-decoration: none;
+    border: 1px solid #2196F3;
+    color: #FFF;
+    background: #2196F3;
+}
+
+.ispu-button-reverse-colors {
+    color: #2196F3;
+    background: #FFF;
+}
+
+.ispu-save-button, .ispu-show-wordfence-extra-popup, .ispu-upgrade-button {
+    padding: 5px 10px;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: bottom;
+    margin-left: 10px;
+}
+
+.ispu-save-button{
+    line-height: 16px;
+}
+
+.ispu-html-wordfence_key li {
+    line-height: 20px;
+}
+
+.ispu-show-wordfence-extra-popup {
+    vertical-align: top;
+    font-size: 13px;
+    height: 20px;
+    line-height: 8px;
+}
+
+.ispu-table-button {
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 12px;
+    margin: 0;
+    outline: none;
+    padding: 8px .8em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    -webkit-user-select: none;
+    user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.what-it-does .ispu-upgrade-button {
+    padding: 0 5px;
+}
+
+.misc .ispu-upgrade-button {
+    vertical-align: baseline;
+}
+.ispu-upgrade-button {
+    margin-left: 0;
+}
+
+
+.ispu-settings input[type="number"] {
+    max-width: 50px;
+    padding: 0 8px;
+    line-height: 2;
+    height: 30px;
+    min-height: 30px;
+    box-shadow: 0 0 0 transparent;
+    border-radius: 4px;
+    border: 1px solid #8c8f94;
+    background-color: #fff;
+    color: #2c3338;
+}
+
+.ispu-settings input[type="number"].has-unit {
+    margin-right: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-right: 0;
+}
+
+.ispu-input-holder {
+    display: flex;
+    align-items: center;
+}
+
+.ispu-tab.hidden, .ispu-hidden {
+    display: none;
+}
+
+.ispu-filler-text {
+    margin-right: 10px;
+}
+
+.ispu-setting-unit {
+    vertical-align: top;
+    font-size: 13px;
+    padding: 4px 8px;
+    background: #f5f5f5;
+    box-sizing: border-box;
+    border: #7e8993 solid 1px;
+    height: 30px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.ispu-switch input {
+    display: none;
+}
+
+.ispu-switch {
+    display: inline-block;
+    width: 40px;
+    height: 20px;
+    transform: translateY(50%);
+    position: relative;
+    top: -10px
+}
+
+.ispu-slider {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-radius: 30px;
+    box-shadow: 0 0 0 2px #777, 0 0 4px #777;
+    cursor: pointer;
+    border: 4px solid transparent;
+    overflow: hidden;
+    transition: 0.2s;
+}
+
+.ispu-slider:before {
+    position: absolute;
+    content: "";
+    width: 200%;
+    transform: translateX(-52px);
+    height: 100%;
+    background-color: #777;
+    border-radius: 20px;
+    transition: 0.2s;
+}
+
+input:checked + .ispu-slider:before {
+    transform: translateX(20px); /*translateX(w-h)*/
+    background-color: #2196F3;
+}
+
+input:checked + .ispu-slider {
+    box-shadow: 0 0 0 2px #2196F3, 0 0 8px #2196F3;
+}
+
+.refreshingtable.refreshing {
+    position: absolute;
+    text-align: center;
+    padding-top: 40px;
+    border: 1px solid #f9f9f9;
+    background: rgba(0, 0, 0, .2);
+    -webkit-backdrop-filter: blur(3px);
+    backdrop-filter: blur(3px);
+    height: calc(100% - 65px);
+    width: 100%;
+    z-index: 2000;
+    overflow: hidden;
+}
+
+.refreshingtable.refreshing:before {
+    content: "\f463";
+    position: absolute;
+    display: inline-block;
+    -webkit-animation: swal2-rotate-loading 1s linear infinite;
+    animation: swal2-rotate-loading 1s linear infinite;
+    font-family: 'dashicons';
+    color: white;
+    font-size: 80px;
+    left: calc(50% - 20px);
+    top: 50%;
+}
+
+.ispu-info ul {
+    margin-left: 10px;
+}
+
+.ispu-info li, .ispu-html-instructions li {
+    list-style: disc inside none;
+}
+
+.ispu-info li {
+    margin: 0 0 0 15px;
+    line-height: 30px;
+}
+
+.ispu-html-instructions {
+    width: max-content !important;
+}
+
+.ispu-html-instructions p {
+    font-size: inherit;
+}
+
+.refund-policy .swal2-popup {
+    width: auto;
+    max-width: 700px;
+}
+
+body .swal2-html-container {
+    text-align: left;
+}
+
+.ispu-swal-screenshots .swal2-popup {
+    width: auto;
+}
+
+.hidden-wordfence_key input {
+    width: 275px;
+}
+
+.ispu-tabs-wrapper {
+    float: left;
+    width: 70%;
+    display: block;
+}
+
+.ispu-sidebar-wrapper {
+    float: right;
+    width: 27%;
+    margin: 45px 0 0 0;
+    box-sizing: border-box;
+}
+
+.ispu-sidebar {
+    box-shadow: 0 1px 1px rgb(0 0 0 / 4%);
+    background: white;
+    margin-bottom: 30px;
+    padding: 15px;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.ispu-sidebar.upgrade-box {
+    border: 2px solid #2196F3;
+}
+
+.ispu-underline {
+    font-weight: bold;
+    border-bottom: 3px solid #2196F3;
+}
+
+.text-center {
+    text-align: center;
+}
+
+a.button.ispu-upgrade {
+    padding: 11px 40px;
+    color: white;
+    background: #2196F3;
+    font-weight: 600;
+    border: none;
+    margin-bottom: 10px;
+}
+
+a.button.ispu-upgrade:hover, .ispu-upgrade-button:hover, .ispu-save-button:hover, .ispu-show-wordfence-extra-popup:hover {
+    box-shadow: 0px 0px 10px 0px rgba(33 150 243/0.52);
+}
+
+.ispu-button-reverse-colors:hover {
+    background: rgba(33 150 243/0.52);
+    color: white;
+    border-color: transparent;
+}
+
+.ispu-upgrade-button:hover, a.button.ispu-upgrade:hover,
+.ispu-show-wordfence-extra-popup,
+.ispu-show-wordfence-extra-popup:hover{
+    background: #2196F3;
+    color: #fff;
+}
+
+@media screen and (max-width: 1055px) {
+    .ispu-tabs-wrapper, .ispu-sidebar-wrapper {
+        width: 100%;
+        float: none;
+        clear: both;
+    }
+}
+
+.ispu-plans .faq, .ispu-info .faq, .ispu-screenshots, .ispu-info-content {
+    padding: 30px;
+}
+
+.ispu-screenshots {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.ispu-screenshots img {
+    max-width: 100%;
+    max-height: 160px;
+}
+
+.ispu-tab section {
+    margin-bottom: 10px;
+    background: #fff;
+    border-radius: 5px;
+}
+
+.ispu-plans section h2, .ispu-info section h2 {
+    padding: 20px 30px;
+    margin: 0;
+    background: #284646;
+    color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.ispu-pricing {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 30px 10px 10px;
+}
+
+.ispu-right {
+    width: 66%;
+    float: right;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+.ispu-right a {
+    flex-basis: 48%;
+}
+
+.ispu-left {
+    width: 33%;
+}
+
+.ispu-pricing .plan {
+    background-color: #fff;
+    padding: 2.5rem;
+    margin: 12px;
+    flex: 0 0 200px;
+    border: 1px solid #284646;
+    text-align: center;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.ispu-pricing .plan img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.ispu-pricing .plan.disabled {
+    -webkit-filter: grayscale(1) blur(1px);
+    filter: grayscale(1) blur(1px);
+    cursor: default;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+.ispu-pricing .plan h3 {
+    font-size: 22px;
+    margin: 0 0 25px;
+}
+
+.currency-btn {
+    border: 3px solid #2196F3;
+    display: inline-block;
+    padding: 5px;
+    position: relative;
+    text-align: center;
+    transition: background 600ms ease, color 600ms ease;
+}
+
+.ispu-currency-switch {
+    z-index: 0;
+    display: block;
+    text-align: center;
+    position: relative;
+    margin-top: 25px;
+}
+
+.ispu-currency-switch input {
+    display: none;
+}
+
+#toggle-usd + label {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#toggle-eur + label {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.ispu-currency-switch input + label {
+    cursor: pointer;
+    min-width: 60px;
+}
+
+.ispu-currency-switch input + label:hover {
+    background: none;
+    color: #2196F3;
+}
+
+.ispu-currency-switch input + label:after {
+    background: #2196F3;
+    content: "";
+    height: 100%;
+    position: absolute;
+    top: 0;
+    transition: left 200ms cubic-bezier(0.77, 0, 0.175, 1);
+    width: 100%;
+    z-index: -1;
+}
+
+.ispu-currency-switch .toggle-left + label:after {
+    left: 100%;
+}
+
+.ispu-currency-switch .toggle-right + label {
+    margin-left: -5px;
+}
+
+.ispu-currency-switch .toggle-right + label:after {
+    left: -100%;
+}
+
+.ispu-currency-switch input:checked + label {
+    cursor: default;
+    color: #fff;
+    transition: color 200ms;
+}
+
+.ispu-currency-switch input:checked + label:after {
+    left: 0;
+}
+
+.ispu-pricing .plan .price {
+    margin-bottom: 25px;
+    font-size: 30px;
+}
+
+.per-year{
+    font-size: 15px;
+}
+
+.ispu-pricing .plan ul.features {
+    list-style-type: none;
+    text-align: left;
+}
+
+.ispu-pricing .plan li {
+    margin: 8px;
+}
+
+.ispu-pricing .plan button {
+    border: none;
+    width: 100%;
+    padding: 12px 35px;
+    margin-top: 1rem;
+    background-color: #2196F3;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.ispu-pricing .plan.popular {
+    border: 2px solid #2196F3;
+    position: relative;
+    transform: scale(1.08);
+}
+
+.ispu-pricing .plan.popular .recommended {
+    position: absolute;
+    top: -15px;
+    transform: translateX(-50%);
+    background-color: #2196F3;
+    color: #fff;
+    padding: 4px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.ispu-pricing .plan:not(.disabled):hover {
+    box-shadow: 5px 7px 67px -28px rgba(0, 0, 0, 0.37);
+}
+
+.ispu-license-activation {
+    text-align: center;
+    flex-basis: 100%;
+    margin: 15px 0 0;
+}
+
+.ispu-check {
+    display: contents;
+}
+
+.ispu-check:after {
+    display: inline-block;
+    left: 0;
+    top: 2px;
+    width: 20px;
+    height: 20px;
+    font-size: 12px;
+    text-align: center;
+    color: white;
+    border-radius: 50%;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, .3)
+}
+
+.ispu-check.check:after {
+    content: '✔';
+    border: 1px solid #6ab04c;
+    background: #6ab04c;
+}
+
+.ispu-check.cross:after {
+    content: 'X';
+    border: 1px solid #eb4d4b;
+    background: #eb4d4b;
+}
+
+.ispu-multisite-not-supported {
+    background-color: #fce4e4;
+    border: 1px solid #fcc2c3;
+    padding: 20px 30px;
+    color: #cc0033;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 20px;
+    text-shadow: 1px 1px rgba(250, 250, 250, .3);
+}
+
+details[open] summary ~ * {
+    animation: open 0.3s ease-in-out;
+}
+
+@keyframes open {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+details summary::-webkit-details-marker {
+    display: none;
+}
+
+details summary {
+    width: 100%;
+    padding: 0.5rem 0;
+    border-top: 1px solid black;
+    position: relative;
+    cursor: pointer;
+    list-style: none;
+}
+
+details summary:after {
+    content: "+";
+    color: black;
+    position: absolute;
+    font-size: 30px;
+    line-height: 0;
+    margin-top: 5px;
+    right: 0;
+    font-weight: 200;
+    transform-origin: center;
+    transition: 200ms linear;
+}
+
+details[open] summary:after {
+    transform: rotate(45deg);
+}
+
+details summary {
+    outline: 0;
+}
+
+details p {
+    margin: 0 0 1rem;
+    padding-top: 1rem;
+}
+
+#refund-policy {
+    display: none;
+}
+
+.refund-heading, .refund-content {
+    padding: 10px;
+}
+
+.refund-content p, .refund-content ul {
+    font-size: 13px;
+}
+
+.refund-heading {
+    background: #284646;
+    color: #fff;
+    font-weight: bold;
+}
+
+.refund-content ul {
+    list-style: disc;
+    margin-left: 25px;
+}
+
+.wordfence-configuration-warning th {
+    background-color: #fcf0f1;
+    border: 1px solid #c3c4c7;
+    border-left: 4px solid #d63638;
+    font-weight: normal;
+}
+
+.wordfence-configuration-warning .wf-instructions-title {
+    color: red;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.wordfence-configuration-warning p {
+    font-weight: normal;
+}
+
+.hidden-wordfence_key svg {
+    margin-left: -35px;
+    cursor: pointer;
+}
+
+.hidden-wordfence_key svg.clicked {
+    fill: #2196F3;
+}
+
+.igspu-trial-reminder{
+    background: #009879;
+    color:white;
+    padding: 10px;
+    border-radius:10px;
+    margin: 10px 0;
+}
+
+@media screen and (max-width: 768px) {
+    .ispu-screenshots {
+        flex-direction: column;
+    }
+
+    .ispu-right, .ispu-left {
+        width: 100%;
+    }
+
+    .ispu-settings td, .ispu-settings th {
+        display: block;
+        min-height: 20px;
+    }
+
+    .ispu-settings select, .hidden-wordfence_key input {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    .ispu-right a {
+        flex-basis: 100%;
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "landingPage": "\/wp-admin\/plugins.php",
+    "preferredVersions": {
+        "php": "7.4",
+        "wp": "latest"
+    },
+    "phpExtensionBundles": [
+        "kitchen-sink"
+    ],
+	"features": {
+        "networking": true
+    },
+    "steps": [
+        {
+            "step": "login",
+            "username": "admin",
+            "password": "password"
+        },
+		{
+            "step": "installPlugin",
+            "pluginZipFile": {
+                "resource": "wordpress.org\/plugins",
+                "slug": "ignore-single-update"
+            },
+            "options": {
+                "activate": true
+            }
+        },
+		{
+            "step": "installPlugin",
+            "pluginZipFile": {
+                "resource": "url",
+                "url": "https:\/\/downloads.wordpress.org\/plugin\/advanced-custom-fields.6.2.5.zip"
+            },
+            "options": {
+                "activate": true
+            }
+        },
+		{
+            "step": "installPlugin",
+            "pluginZipFile": {
+                "resource": "url",
+                "url": "https:\/\/downloads.wordpress.org\/plugin\/sortable-dashboard-to-do-list.1.0.3.zip"
+            },
+            "options": {
+                "activate": true
+            }
+        },
+		{
+            "step": "installPlugin",
+            "pluginZipFile": {
+                "resource": "url",
+                "url": "https:\/\/downloads.wordpress.org\/plugin\/fluentform.5.1.9.zip"
+            },
+            "options": {
+                "activate": true
+            }
+        },
+		{
+            "step": "installPlugin",
+            "pluginZipFile": {
+                "resource": "url",
+                "url": "https:\/\/downloads.wordpress.org\/plugin\/tablepress.2.2.3.zip"
+            },
+            "options": {
+                "activate": false
+            }
+        },{
+            "step": "installPlugin",
+            "pluginZipFile": {
+                "resource": "url",
+                "url": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.22.0.zip"
+            },
+            "options": {
+                "activate": false
+            }
+        }
+    ]
+}

@@ -1,0 +1,707 @@
+# Copyright (C) 2024 Ignore Or Disable Plugin Update
+# This file is distributed under the same license as the Ignore Single Plugin Update package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ignore Or Disable Plugin Update\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Description of the plugin
+msgid "Allows to ignore a single plugin update for a certain number of days, or until its next version."
+msgstr ""
+
+#. Menus and Tabs
+
+msgid "Ignored Plugin Updates"
+msgstr ""
+
+msgid "Ignored Updates"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+#. Main tab
+
+msgid "You currently do not have any active ignored plugin updates."
+msgstr ""
+
+msgid "The following ignored plugin updates have expired. You may leave them, or delete them (risk-free) from the database"
+msgstr ""
+
+msgid "Installed Version"
+msgstr ""
+
+msgid "Ignored Version"
+msgstr ""
+
+msgid "Ignored Until"
+msgstr ""
+
+msgid "FOREVER"
+msgstr ""
+
+msgid "Any ulterior version"
+msgstr ""
+
+msgid "Next version"
+msgstr ""
+
+msgid "Stop Ignoring"
+msgstr ""
+
+msgid "Delete All"
+msgstr ""
+
+msgid "The following plugin updates are PERMANENTLY IGNORED"
+msgstr ""
+
+msgid "The following plugin updates are PERMANENTLY IGNORED, and may represent security risks"
+msgstr ""
+
+msgid "The following plugin updates are currently ignored until they expire, or until the next version releases"
+msgstr ""
+
+msgid "The following plugin updates are currently automatically ignored, as per your Autopilot settings"
+msgstr ""
+
+msgid "Reason"
+msgstr ""
+
+msgid "Major version"
+msgstr ""
+
+msgid "Minor version"
+msgstr ""
+
+msgid "Patch version"
+msgstr ""
+
+msgid "Vulnerability detected"
+msgstr ""
+
+msgid "Days elapsed"
+msgstr ""
+
+msgid "New version released"
+msgstr ""
+
+msgid "Plugin updated"
+msgstr ""
+
+#. Settings Tab
+
+msgid "Allow to permanently ignore updates"
+msgstr ""
+
+msgid "Adds an \"%s\" link to the popup to allow you to ignore all future versions of a plugin."
+msgstr ""
+
+msgid "Remove confirmation popup"
+msgstr ""
+
+msgid "Removes the confirmation popup when ignoring an update. The default number of days will automatically be applied."
+msgstr ""
+
+msgid "Default number of days"
+msgstr ""
+
+msgid "The amount of days that will be used when not entering any number in the popup."
+msgstr ""
+
+msgid "day(s)"
+msgstr ""
+
+msgid "Prevent ignoring patch versions"
+msgstr ""
+
+msgid "Will not show the \"%s\" link when the version is a fix (e.g. going from 4.2.5 to 4.2.6)."
+msgstr ""
+
+msgid "Autopilot"
+msgstr ""
+
+msgid "Activate it to automatically delay the apparition of new updates for your chosen amount of days."
+msgstr ""
+
+msgid "Given a versioning of \"X.Y.Z\":"
+msgstr ""
+
+msgid "Choose \"%s\" to automatically ignore any change in the X number"
+msgstr""
+
+msgid "Choose \"%s\" to automatically ignore any change in the X or Y number"
+msgstr""
+
+msgid "Choose \"%s\" to automatically ignore any version change"
+msgstr""
+
+msgid "Major versions"
+msgstr""
+
+msgid "Major + Minor versions"
+msgstr ""
+
+msgid "Any version (Major + Minor + Patch)"
+msgstr ""
+
+msgid "for"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Plugins ignored by Autopilot"
+msgstr ""
+
+msgid "The new versions of these plugins will never be automatically ignored."
+msgstr ""
+
+msgid "Select plugin(s)"
+msgstr ""
+
+msgid "Popup theme"
+msgstr ""
+
+msgid "Changes the popups' design."
+msgstr ""
+
+msgid "Admin notices"
+msgstr ""
+
+msgid "Controls which admin notices to display."
+msgstr ""
+
+msgid "Days admin notices are dismissed for"
+msgstr ""
+
+msgid "When an admin notice is dismissed, it won't appear again for that number of days."
+msgstr ""
+
+msgid "We do not recommend completely disabling notices, since you may forget you ignored updates."
+msgstr ""
+
+msgid "How about only showing critical notices?"
+msgstr ""
+
+msgid "Disable all"
+msgstr ""
+
+msgid "Critical only"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "WordFence integration instructions"
+msgstr ""
+
+msgid "Create a FREE WordFence account"
+msgstr ""
+
+msgid "Go to %s"
+msgstr ""
+
+msgid "Click on \"%s\""
+msgstr ""
+
+msgid "In the \"%s\" field, enter this url:"
+msgstr ""
+
+msgid "Copy the generated Secret Key"
+msgstr ""
+
+msgid "Paste the generated Secret Key in the \"%s\" field below, and click \"%s\""
+msgstr ""
+
+msgid "Go back to the WordFence page and click \"%s\""
+msgstr ""
+
+msgid "Check that you get a \"200\" response code"
+msgstr ""
+
+msgid "If you get a \"404\" response code, <a href=\"#\" class=\"wordfence-try-again\">click here</a>, then try steps 10 and 11 again"
+msgstr ""
+
+msgid "<a href=\"%s\">Click here</a> to refresh this page. If the configuration was successful, these instructions will have disappeared"
+msgstr ""
+
+msgid "If everything is properly set up, but these instructions do not disappear after page refresh, please <a href=\"%s\">contact support</a>."
+msgstr ""
+
+msgid "Show Screenshot"
+msgstr ""
+
+msgid "Activate WordFence integration"
+msgstr ""
+
+msgid "Integrate with WordFence to know if your installed plugin versions have newly discovered security flaws."
+msgstr ""
+
+msgid "Minimum severity"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "High"
+msgstr ""
+
+msgid "Critical"
+msgstr ""
+
+msgid "Controls from which severity level notifications should trigger."
+msgstr ""
+
+msgid "WordFence Secret Key"
+msgstr ""
+
+msgid "The Secret Key obtained from wordfence.com"
+msgstr ""
+
+msgid "Send vulnerability emails"
+msgstr ""
+
+msgid "Since you have WordFence installed, you can deactivate this setting if you experience duplicate emails."
+msgstr ""
+
+msgid "Settings successfully updated"
+msgstr ""
+
+#. Info Tab
+
+msgid "What Does This Plugin Do?"
+msgstr ""
+
+msgid "With this plugin, you can:"
+msgstr ""
+
+msgid "Ignore the latest version of the plugin of your choice, for the duration of your choice."
+msgstr ""
+
+msgid "Delay seeing potentially bugged plugin updates, by auto-ignoring new releases for a set number of days."
+msgstr ""
+
+msgid "Easily see what updates are currently ignored."
+msgstr ""
+
+msgid "Completely ignore future updates for a given plugin."
+msgstr ""
+
+msgid "Integrate with WordFence to know about your plugins security issues."
+msgstr ""
+
+msgid "Premium"
+msgstr ""
+
+msgid "How To Use"
+msgstr ""
+
+msgid "The plugin works out of the box, without needing to configure extra settings."
+msgstr ""
+
+msgid "It adds an \"%s\" link in the \"%s\" and \"%s\" WP screens."
+msgstr ""
+
+msgid "Clicking on it prompts for a number of days for which the update notice should not be displayed, for this specific plugin."
+msgstr ""
+
+msgid "Entering any number of days will postpone the re-apparition of the notice."
+msgstr ""
+
+msgid "Entering 0 will postpone the re-apparition of the notice until the next plugin version."
+msgstr ""
+
+msgid "Ignored updates can be unignored at any time by going in the \"%s\"->\"%s\" WP menu."
+msgstr ""
+
+msgid "Additional Settings"
+msgstr ""
+
+msgid "There is %s additional setting, only accessible via WP filter:"
+msgid_plural "There are %s additional settings, only accessible via WP filters:"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Your WordFence Secret Key may also be defined by adding the following in your functions.php:"
+msgstr ""
+
+msgid "Just make sure to replace xxxxxxxx by your actual key"
+msgstr ""
+
+msgid "Misc"
+msgstr ""
+
+msgid "Plugin version:"
+msgstr ""
+
+msgid "Plan Type:"
+msgstr ""
+
+msgid "Upgrade To Premium"
+msgstr ""
+
+msgid "Thank you for using my plugin"
+msgstr ""
+
+#. FAQ
+
+msgid "Frequently Asked Questions"
+msgstr ""
+
+msgid "Is there a setup fee?"
+msgstr ""
+
+msgid "No. There are no setup fees on any of our plans."
+msgstr ""
+
+msgid "Can I cancel my account at any time?"
+msgstr ""
+
+msgid "Yes, if you ever decide that %s isn't the best plugin for your business, simply cancel your account from your Account panel."
+msgstr ""
+
+msgid "What's the time span for your contracts?"
+msgstr ""
+
+msgid "All plans are year-to-year."
+msgstr ""
+
+msgid "Can I change my plan later on?"
+msgstr ""
+
+msgid "Absolutely! You can upgrade or downgrade your plan at any time."
+msgstr ""
+
+msgid "What payment methods are accepted?"
+msgstr ""
+
+msgid "We accept all major credit cards including Visa, Mastercard, American Express, as well as PayPal payments."
+msgstr ""
+
+msgid "Do you offer refunds?"
+msgstr ""
+
+msgid "Yes we do! We stand behind the quality of our product and will refund 100% of your money if you experience an issue that makes the plugin unusable and we are unable to resolve it."
+msgstr ""
+
+msgid "Click here to display our refund policy."
+msgstr ""
+
+msgid "Do I need multiple licenses for Multisite?"
+msgstr ""
+
+msgid "No! You only need one single Business license for the plugin to work on your entire multisite network."
+msgstr ""
+
+msgid "Do I get updates for the premium plugin?"
+msgstr ""
+
+msgid "Yes! Automatic updates to our premium plugin are available free of charge as long as you stay our paying customer."
+msgstr ""
+
+msgid "Do you offer support if I need help?"
+msgstr ""
+
+msgid "Yes! Top-notch customer support for our paid customers is key for a quality product, so we'll do our very best to resolve any issues you encounter via our support page."
+msgstr ""
+
+msgid "I have other pre-sale questions, can you help?"
+msgstr ""
+
+msgid "Yes! You can ask us any question by using our <a href=\"%s\">contact form</a>."
+msgstr ""
+
+#. Refund Policy
+
+msgid "Refund Policy"
+msgstr""
+
+msgid "We stand behind our plugin’s quality and your satisfaction with it is important to us."
+msgstr""
+
+msgid "If you experience problems with the plugin, we will be happy to provide a full refund within 14 days of the original upgrade date."
+msgstr""
+
+msgid "Refunds will be offered at our sole discretion and must meet all the following conditions <strong>fully</strong>:"
+msgstr""
+
+msgid "You are within the first 14 days of the purchase of the plugin."
+msgstr""
+
+msgid "Your issue(s) derives from not being able to install the plugin properly or get the plugin to perform its basic functions."
+msgstr""
+
+msgid "You have attempted to resolve your issue(s) with our support team by opening a support ticket through the \"%s\" tab in the plugin’s admin settings."
+msgstr""
+
+msgid "No refunds will be granted after the first 14 days of the original purchase whatsoever."
+msgstr""
+
+msgid "Refunds will not be granted for missing feature(s). If you are not sure we support a specific feature, please contact us first."
+msgstr""
+
+msgid "Issues caused by conflicts with 3rd party plugins, themes or other software will not provide grounds for a refund."
+msgstr""
+
+msgid "Refunds will not be granted if you simply decide not to use the plugin."
+msgstr""
+
+msgid "By upgrading, you agree to this refund policy and relinquish any rights to subject it to any questions, judgment or legal actions."
+msgstr""
+
+msgid "To submit a refund request, please open a <a href=\"%s\">refund support ticket</a>."
+msgstr""
+
+#. Premium Tab
+
+msgid "Your current plan does not support Multisite. Please Upgrade to the Business plan to use the plugin on a Multisite install."
+msgstr ""
+
+msgid "Never Ignore Critical Updates"
+msgstr ""
+
+msgid "FREE"
+msgstr ""
+
+msgid "No Autopilot"
+msgstr ""
+
+msgid "WordFence Integration"
+msgstr ""
+
+msgid "No WordFence Integration"
+msgstr ""
+
+msgid "Email Support"
+msgstr ""
+
+msgid "No Email Support"
+msgstr ""
+
+msgid "Priority Email Support"
+msgstr ""
+
+msgid "No Multisite Compatibility"
+msgstr ""
+
+msgid "Multisite Compatibility"
+msgstr ""
+
+msgid "Recommended"
+msgstr ""
+
+msgid "Buy Now"
+msgstr ""
+
+msgid "year"
+msgstr ""
+
+msgid "Already have a license key?"
+msgstr""
+
+msgid "Activate it"
+msgstr ""
+
+msgid "Screenshots"
+msgstr ""
+
+msgid "Activate it to automatically delay the apparition of new updates"
+msgstr ""
+
+msgid "Exclude plugins from Autopilot"
+msgstr ""
+
+msgid "Get security warnings on your installed plugins"
+msgstr ""
+
+msgid "Without WordFence plugin"
+msgstr ""
+
+msgid "Paid WordFence plan not required"
+msgstr ""
+
+msgid "See warnings from the \"%s\" and \"%s\" pages"
+msgstr ""
+
+msgid "Automatically unignore vulnerable versions"
+msgstr ""
+
+msgid "Prevent ignoring vulnerable versions"
+msgstr ""
+
+msgid "Get informed in real time by email"
+msgstr ""
+
+msgid "Plugins page"
+msgstr ""
+
+msgid "Updates page"
+msgstr ""
+
+#. Free Version Sidebar
+
+msgid "There is <span class=\"ispu-underline\">a PREMIUM version</span>. Here are its <span class=\"ispu-underline\">main features</span>:"
+msgstr ""
+
+msgid "Please <a href=\"%s\" target=\"_blank\">rate the plugin ★★★★★</a> to help keep its free version up-to-date & maintained. Thank you!"
+msgstr ""
+
+msgid "Get Premium"
+msgstr ""
+
+#. Admin Notices
+
+msgid "You are currently permanently ignoring updates for %s plugin."
+msgid_plural "You are currently permanently ignoring updates for %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "You are currently ignoring %s plugin update."
+msgid_plural "You are currently ignoring %s plugin updates."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "<a href=\"%s\">Review your ignored updates</a> to ensure that it is really needed."
+msgstr ""
+
+#. Health Tests
+
+msgid "You should never permanently ignore plugin updates"
+msgstr ""
+
+msgid "The following plugin <strong>cannot currently be updated</strong>:"
+msgid_plural "The following plugins <strong>cannot currently be updated</strong>:"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "You should never completely ignore future plugin updates, since they may contain important security fixes."
+msgstr ""
+
+msgid "You should avoid ignoring plugin updates for too long"
+msgstr ""
+
+msgid "The currently available update for the following plugin <strong>is ignored for too long</strong>:"
+msgid_plural "The currently available updates for the following plugins <strong>are ignored for too long</strong>:"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "You should avoid ignoring plugin updates for too long. If the update was problematic, a fix would most likely occur within 7 days."
+msgstr ""
+
+msgid "Stop ignoring the updates"
+msgstr ""
+
+msgid "Some of your plugins have known vulnerabilities"
+msgstr ""
+
+msgid "The following plugin <strong>has a known vulnerability</strong>:"
+msgid_plural "The following plugins <strong>have known vulnerabilities</strong>:"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Review the \"%s\" or \"%s\" page to learn more and take action."
+msgstr ""
+
+msgid "Upgrade to Premium and never worry about it again"
+msgstr ""
+
+msgid "Activate WordFence integration and never worry about it again"
+msgstr ""
+
+
+#. WordFence Email
+
+msgid "Vulnerability of %s severity detected in the %s plugin"
+msgstr ""
+
+msgid "The %s version of the %s plugin is affected by a vulnerability"
+msgstr ""
+
+msgid "Here are some details on the vulnerability:"
+msgstr ""
+
+msgid "Severity"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Recommended action"
+msgstr ""
+
+msgid "Learn more about this vulnerability"
+msgstr ""
+
+msgid "This email was sent to you by the %s plugin."
+msgstr ""
+
+#. Update Screens
+
+msgid "Ignore update"
+msgstr ""
+
+msgid "For how many days do you want to ignore version %s?"
+msgstr ""
+
+msgid "until next version"
+msgstr ""
+
+msgid "Only integers are accepted"
+msgstr ""
+
+msgid "Ignore all future versions"
+msgstr ""
+
+msgid "Permanently ignoring future versions could lead to security issues."
+msgstr ""
+
+msgid "Are you sure?"
+msgstr ""
+
+msgid "Successfully ignored forever"
+msgstr ""
+
+msgid "An error occurred. Refresh the page and try again."
+msgstr ""
+
+msgid "Successfully ignored for 1 day"
+msgstr ""
+
+msgid "Successfully ignored for %s days"
+msgstr ""
+
+msgid "Successfully ignored until next version"
+msgstr ""
+
+msgid "This version was previously ignored for %s day"
+msgid_plural "This version was previously ignored for %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "This version was released more than %s day ago"
+msgid_plural "This version was released more than %s days ago"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Your current version has a known vulnerability."
+msgstr ""
+
+msgid "You are currently using the Free Trial of the Supporter Version. All plugin features are unlocked."
+msgstr ""
+
+msgid "Free Trial"
+msgstr ""
+
+msgid "Try Free For 30 Days"
+msgstr ""
+
+msgid "No credit card required"
+msgstr ""

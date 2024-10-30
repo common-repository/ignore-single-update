@@ -1,0 +1,944 @@
+# Copyright (C) 2024 Ignore Single Plugin Update
+# This file is distributed under the same license as the Ignore Single Plugin Update package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ignore Single Plugin Update\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-19 06:53+0000\n"
+"PO-Revision-Date: 2024-01-29 05:08+0000\n"
+"Last-Translator: JFG Media\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2"
+
+msgid ""
+"<a href=\"%s\">Click here</a> to refresh this page. If the configuration was "
+"successful, these instructions will have disappeared"
+msgstr ""
+"<a href=\"%s\">Klicken Sie hier</a> um die Seite zu aktualisieren. Wenn die "
+"Konfiguration erfolgreich war, sind diese Anweisungen verschwunden"
+
+msgid ""
+"<a href=\"%s\">Review your ignored updates</a> to ensure that it is really "
+"needed."
+msgstr ""
+"<a href=\"%s\">Überprüfen Sie Ihre ignorierten Aktualisierungen</a>, um "
+"sicherzustellen, dass sie wirklich notwendig sind."
+
+msgid "Absolutely! You can upgrade or downgrade your plan at any time."
+msgstr ""
+"Auf jeden Fall! Sie können jederzeit auf einen niedrigeren oder höheren Plan "
+"umsteigen."
+
+msgid "Activate it"
+msgstr "Aktivieren Sie ihn"
+
+msgid "Activate it to automatically delay the apparition of new updates"
+msgstr ""
+"Aktivieren Sie es, um das Erscheinen neuer Aktualisierungen automatisch zu "
+"verzögern"
+
+msgid ""
+"Activate it to automatically delay the apparition of new updates for your "
+"chosen amount of days."
+msgstr ""
+"Aktivieren Sie es, um das Erscheinen neuer Aktualisierungen automatisch um "
+"die von Ihnen gewählte Anzahl von Tagen zu verzögern."
+
+msgid "Activate WordFence integration"
+msgstr "WordFence-Integration aktivieren"
+
+msgid "Activate WordFence integration and never worry about it again"
+msgstr "WordFence-Integration aktivieren und Sie sind sorgenfrei"
+
+msgid "Additional Settings"
+msgstr "Zusätzliche Einstellungen"
+
+msgid ""
+"Adds an \"%s\" link to the popup to allow you to ignore all future versions "
+"of a plugin."
+msgstr ""
+"Fügt einen \"%s\"-Link im Popup hinzu, um zukünftige Versionen eines Plugins "
+"zu ignorieren."
+
+msgid "Admin notices"
+msgstr "Admin-Benachrichtigungen"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "All plans are year-to-year."
+msgstr "Alle Pläne laufen Jahr für Jahr."
+
+#. Settings Tab
+msgid "Allow to permanently ignore updates"
+msgstr "Erlauben, zukünftige Aktualisierungen zu ignorieren"
+
+#. Description of the plugin
+msgid ""
+"Allows to ignore a single plugin update for a certain number of days, or "
+"until its next version."
+msgstr ""
+"Erlaubt das Ignorieren eines einzelnen Plugin-Aktualisierungen für eine "
+"bestimmte Anzahl von Tagen oder bis zur nächsten Version. "
+
+msgid "Already have a license key?"
+msgstr "Haben Sie bereits einen Lizenzschlüssel?"
+
+msgid "An error occurred. Refresh the page and try again."
+msgstr ""
+"Ein Fehler ist aufgetreten. Aktualisieren Sie die Seite und versuchen Sie es "
+"erneut."
+
+msgid "Any ulterior version"
+msgstr "Irgendeine weitere Version"
+
+msgid "Any version (Major + Minor + Patch)"
+msgstr "Jede Version (Haupt + Neben + Patch)"
+
+msgid "Are you sure?"
+msgstr "Sind Sie sicher?"
+
+msgid "Automatically unignore vulnerable versions"
+msgstr "Automatisches Aufheben des Ignorierens schadhafter Versionen"
+
+msgid "Autopilot"
+msgstr "Autopilot"
+
+msgid "Buy Now"
+msgstr "Jetzt kaufen"
+
+msgid ""
+"By upgrading, you agree to this refund policy and relinquish any rights to "
+"subject it to any questions, judgment or legal actions."
+msgstr ""
+"Durch den Kauf des Premium-Plans, erklären Sie sich mit dieser "
+"Rückerstattungsrichtlinie einverstanden und verzichten auf jegliche Rechte, "
+"sie anzuzweifeln, zu beurteilen oder rechtlich dagegen vorzugehen."
+
+msgid "Can I cancel my account at any time?"
+msgstr "Kann ich mein Konto jederzeit kündigen?"
+
+msgid "Can I change my plan later on?"
+msgstr "Kann ich meinen Plan später ändern?"
+
+msgid "Changes the popups' design."
+msgstr "Ändert das Design der Popups."
+
+msgid "Check that you get a \"200\" response code"
+msgstr "Überprüfen Sie, ob Sie einen \"200\" Antwort-Code erhalten"
+
+msgid "Choose \"%s\" to automatically ignore any change in the X number"
+msgstr ""
+"Wählen Sie \"%s\", um automatisch jede Änderung in der X-Nummer zu ignorieren"
+
+msgid "Choose \"%s\" to automatically ignore any change in the X or Y number"
+msgstr ""
+"Wählen Sie \"%s\", um automatisch jede Änderung in der X- oder Y-Nummer zu "
+"ignorieren"
+
+msgid "Choose \"%s\" to automatically ignore any version change"
+msgstr "Wählen Sie \"%s\", um automatisch jede Versionsänderung zu ignorieren"
+
+msgid "Click here to display our refund policy."
+msgstr "Klicken Sie hier, um unsere Rückerstattungsrichtlinien anzuzeigen."
+
+msgid "Click on \"%s\""
+msgstr "Klicken Sie auf \"%s\""
+
+msgid ""
+"Clicking on it prompts for a number of days for which the update notice "
+"should not be displayed, for this specific plugin."
+msgstr ""
+"Durch Klicken darauf wird nach einer Anzahl von Tagen gefragt, für die die "
+"Aktualisierung-Benachrichtigungen für dieses bestimmte Plugin nicht "
+"angezeigt werden soll."
+
+msgid "Completely ignore future updates for a given plugin."
+msgstr ""
+"Ignorieren Sie zukünftige Aktualisierungen vollständig für ein bestimmtes "
+"Plugin."
+
+msgid "Controls from which severity level notifications should trigger."
+msgstr ""
+"Steuert, ab welchem Schweregrad Benachrichtigungen ausgelöst werden sollen."
+
+msgid "Controls which admin notices to display."
+msgstr "Kontrolliert, welche Admin-Benachrichtigungen angezeigt werden."
+
+msgid "Copy the generated Secret Key"
+msgstr "Kopieren Sie den generierten Geheimschlüssel"
+
+msgid "Create a FREE WordFence account"
+msgstr "Erstellen Sie ein KOSTENLOSES WordFence-Konto"
+
+msgid "Critical"
+msgstr "Kritisch"
+
+msgid "Critical only"
+msgstr "Nur kritische"
+
+msgid "day(s)"
+msgstr "Tag(e)"
+
+msgid "Days admin notices are dismissed for"
+msgstr "Tage, für die Admin-Benachrichtigungen verworfen werden"
+
+msgid "Days elapsed"
+msgstr "Verstrichene Tage"
+
+msgid "Default number of days"
+msgstr "Standardanzahl von Tagen"
+
+msgid ""
+"Delay seeing potentially bugged plugin updates, by auto-ignoring new "
+"releases for a set number of days."
+msgstr ""
+"Verzögern Sie das Anzeigen potenziell fehlerhafter Plugin-Aktualisierungen, "
+"indem Sie neue Veröffentlichungen automatisch für eine festgelegte Anzahl "
+"von Tagen ignorieren."
+
+msgid "Delete All"
+msgstr ""
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Disable all"
+msgstr "Alles deaktivieren"
+
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+msgid "Do I get updates for the premium plugin?"
+msgstr "Bekomme ich Aktualisierungen für das Premium-Plugin?"
+
+msgid "Do I need multiple licenses for Multisite?"
+msgstr "Brauche ich mehrere Lizenzen für Multisite?"
+
+msgid "Do you offer refunds?"
+msgstr "Bieten Sie Rückerstattung an?"
+
+msgid "Do you offer support if I need help?"
+msgstr "Bieten Sie Unterstützung an, wenn ich Hilfe benötige?"
+
+msgid "Easily see what updates are currently ignored."
+msgstr "Sehen Sie leicht, welche Aktualisierungen derzeit ignoriert werden."
+
+msgid "Email Support"
+msgstr "E-Mail-Support"
+
+msgid ""
+"Entering 0 will postpone the re-apparition of the notice until the next "
+"plugin version."
+msgstr ""
+"Das Eingeben von 0 verschiebt das erneute Erscheinen der Benachrichtigung "
+"bis zur Veröffentlichung der nächsten Plugin-Version."
+
+msgid ""
+"Entering any number of days will postpone the re-apparition of the notice."
+msgstr ""
+"Das Eingeben einer beliebigen Anzahl von Tagen verschiebt das erneute "
+"Erscheinen der Benachrichtigung."
+
+msgid "Exclude plugins from Autopilot rules"
+msgstr "Schließen Sie Plugins von den Autopilot-Regeln aus"
+
+msgid "for"
+msgstr "für"
+
+msgid "For how many days do you want to ignore version %s?"
+msgstr "Für wie viele Tage möchten Sie die Version %s ignorieren?"
+
+msgid "FOREVER"
+msgstr "IMMER"
+
+msgid "FREE"
+msgstr "KOSTENLOS"
+
+#. FAQ
+msgid "Frequently Asked Questions"
+msgstr "Häufig gestellte Fragen"
+
+msgid "Get informed in real time by email"
+msgstr "Erhalten Sie Echtzeit-Benachrichtigungen per E-Mail"
+
+msgid "Get Premium"
+msgstr "Premium holen"
+
+msgid "Get security warnings on your installed plugins"
+msgstr "Erhalten Sie Sicherheitswarnungen zu Ihren installierten Plugins"
+
+msgid "Given a versioning of \"X.Y.Z\":"
+msgstr "Bei einer Versionsnummer \"X.Y.Z\":"
+
+msgid "Go back to the WordFence page and click \"%s\""
+msgstr "Gehen Sie zurück zur WordFence-Seite und klicken Sie auf \"%s\""
+
+msgid "Go to %s"
+msgstr "Gehen Sie zu %s"
+
+msgid "Here are some details on the vulnerability:"
+msgstr "Hier sind einige Details zur Schwachstelle:"
+
+msgid "High"
+msgstr "Hoch"
+
+msgid "How about only showing critical ones?"
+msgstr "Wie wäre es nur mit der Anzeige kritischer?"
+
+msgid "How To Use"
+msgstr "Anwendungshinweise"
+
+msgid "I have other pre-sale questions, can you help?"
+msgstr "Ich habe andere Fragen vor dem Kauf, können Sie helfen?"
+
+msgid ""
+"If everything is properly set up, but these instructions do not disappear "
+"after page refresh, please <a href=\"%s\">contact support</a>."
+msgstr ""
+"Wenn alles ordnungsgemäß eingerichtet ist, diese Anweisungen jedoch nach dem "
+"Aktualisieren der Seite nicht verschwunden sind, <a href=\"%s\">kontaktieren "
+"Sie den Support</a>."
+
+msgid ""
+"If you experience problems with the plugin, we will be happy to provide a "
+"full refund within 14 days of the original upgrade date."
+msgstr ""
+"Wenn Sie Probleme mit dem Plugin haben, erstatten wir Ihnen den vollen "
+"Betrag innerhalb 14 Tagen des ursprünglichen Kaufdatums."
+
+msgid ""
+"If you get a \"404\" response code, <a href=\"#\" class=\"wordfence-try-"
+"again\">click here</a>, then try steps 10 and 11 again"
+msgstr ""
+"Wenn Sie einen \"404\" Antwort-Code erhalten, <a href=\"#\" "
+"class=\"wordfence-try-again\">klicken Sie hier</a> und versuchen Sie dann "
+"Schritte 10 und 11 erneut"
+
+msgid "Ignore a single version of a single plugin during any number of days."
+msgstr ""
+"Eine einzelne Version eines einzelnen Plugins für eine beliebige Anzahl von "
+"Tagen ignorieren."
+
+msgid "Ignore all future versions"
+msgstr "Alle zukünftigen Versionen ignorieren"
+
+#. Update Screens
+msgid "Ignore update"
+msgstr "Aktualisierung ignorieren"
+
+#. Menus and Tabs
+msgid "Ignored Plugin Updates"
+msgstr "Ignorierte Plugin-Aktualisierungen"
+
+msgid "Ignored Until"
+msgstr "Ignoriert bis"
+
+msgid "Ignored Updates"
+msgstr "Ignorierte Aktualisierungen"
+
+msgid ""
+"Ignored updates can be unignored at any time by going in the \"%s\"->\"%s\" "
+"WP menu."
+msgstr ""
+"Ignorierte Aktualisierungen können jederzeit aufgehoben werden, indem Sie "
+"zum WP-Menü \"%s\"->\"%s\" gehen."
+
+msgid "Ignored Version"
+msgstr "Ignorierte Version"
+
+msgid "In the \"%s\" field, enter this url:"
+msgstr "Geben Sie in das Feld \"%s\" diese Adresse ein:"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Installed Version"
+msgstr "Installierte Version"
+
+msgid "Integrate with WordFence to know about your plugins security issues."
+msgstr ""
+"Integrieren Sie WordFence, um über Sicherheitsprobleme Ihrer Plugins "
+"informiert zu sein."
+
+msgid ""
+"Integrate with WordFence to know if your installed plugin versions have "
+"newly discovered security flaws."
+msgstr ""
+"Integrieren Sie WordFence, um zu erfahren, ob Ihre installierten Plugin-"
+"Versionen neu entdeckte Sicherheitslücken aufweisen."
+
+msgid "Is there a setup fee?"
+msgstr "Gibt es eine Einrichtungsgebühr?"
+
+msgid ""
+"Issues caused by conflicts with 3rd party plugins, themes or other software "
+"will not provide grounds for a refund."
+msgstr ""
+"Probleme, die durch Konflikte mit Plugins von Drittanbietern, Themes oder "
+"anderen Software verursacht werden, berechtigen nicht zu einer "
+"Rückerstattung."
+
+msgid "It adds an \"%s\" link in the \"%s\" and \"%s\" WP screens."
+msgstr ""
+"Es fügt einen \"%s\" Link in den WP-Bildschirmen \"%s\" und \"%s\" hinzu."
+
+msgid "Just make sure to replace xxxxxxxx by your actual key"
+msgstr ""
+"Achten Sie darauf, xxxxxxxx durch ihren tatsächlichen Schlüssel zu ersetzen"
+
+msgid "Learn more about this vulnerability"
+msgstr "Erfahren Sie mehr über diese Schwachstelle"
+
+msgid "Low"
+msgstr "Niedrig"
+
+msgid "Major + Minor versions"
+msgstr "Haupt- und Nebenversionen"
+
+msgid "Major version"
+msgstr "Hauptversion"
+
+msgid "Major versions"
+msgstr "Hauptversionen"
+
+msgid "Medium"
+msgstr "Mittel"
+
+msgid "Minimum severity"
+msgstr "Mindestschweregrad"
+
+msgid "Minor version"
+msgstr "Nebenversion"
+
+msgid "Misc"
+msgstr "Sonstiges"
+
+msgid "Multisite Compatibility"
+msgstr "Multisite-Kompatibilität"
+
+msgid "Never Ignore Critical Updates"
+msgstr "Kritische Aktualisierungen niemals ignorieren"
+
+msgid "New version released"
+msgstr "Neue Version veröffentlicht"
+
+msgid "Next version"
+msgstr "Nächste Version"
+
+msgid "No Autopilot"
+msgstr "Kein Autopilot"
+
+msgid "No Email Support"
+msgstr "Kein E-Mail-Support"
+
+msgid "No Multisite Compatibility"
+msgstr "Keine Multisite-Kompatibilität"
+
+msgid ""
+"No refunds will be granted after the first 14 days of the original purchase "
+"whatsoever."
+msgstr ""
+"Keine Rückerstattungen werden nach den ersten 14 Tagen des ursprünglichen "
+"Kaufs gewährt."
+
+msgid "No WordFence Integration"
+msgstr "Keine WordFence-Integration"
+
+msgid ""
+"No! You only need one single Business license for the plugin to work on your "
+"entire multisite network."
+msgstr ""
+"Nein! Sie benötigen nur eine einzige Business-Lizenz, damit das Plugin in "
+"Ihrem gesamten Multisite-Netzwerk funktioniert."
+
+msgid "No. There are no setup fees on any of our plans."
+msgstr "Nein. Keiner unserer Pläne hat eine Einrichtungsgebühr."
+
+msgid "None"
+msgstr "Keine"
+
+msgid "Only integers are accepted"
+msgstr "Es werden nur ganze Zahlen akzeptiert"
+
+msgid "Paid WordFence plan not required"
+msgstr "Kostenpflichtiger WordFence-Plan nicht erforderlich"
+
+msgid ""
+"Paste the generated Secret Key in the \"%s\" field below, and click \"%s\""
+msgstr ""
+"Fügen Sie den generierten Geheimschlüssel in das Feld \"%s\" unten ein und "
+"klichen Sie auf \"%s\""
+
+msgid "Patch version"
+msgstr "Patch-Version"
+
+msgid "Permanently ignoring future versions could lead to security issues."
+msgstr ""
+"Das dauerhafte Ignorieren zukünftiger Versionen könnte zu "
+"Sicherheitsproblemen führen."
+
+msgid "Plan Type:"
+msgstr "Planart:"
+
+msgid ""
+"Please <a href=\"%s\" target=\"_blank\">rate the plugin ★★★★★</a> to help "
+"keep its free version up-to-date & maintained. Thank you!"
+msgstr ""
+"Bitte <a href=\"%s\" target=\"_blank\">bewerten Sie das Plugin mit ★★★★★</a>,"
+" um seine kostenlose Version aktualisiert zu halten. Vielen Dank!"
+
+msgid "Plugin Name"
+msgstr "Plugin-Name"
+
+msgid "Plugin updated"
+msgstr "Plugin aktualisiert"
+
+msgid "Plugin version:"
+msgstr "Plugin-Version:"
+
+msgid "Plugins ignored by Autopilot"
+msgstr "Plugins vom Autopilot ignoriert"
+
+#| msgid "Plugin page"
+msgid "Plugins page"
+msgstr "Plugins-Seite"
+
+msgid "Popup theme"
+msgstr "Popup-Thema"
+
+msgid "Premium"
+msgstr "Premium"
+
+msgid "Prevent ignoring patch versions"
+msgstr "Ignorieren von Patch-Versionen verhindern"
+
+msgid "Prevent ignoring vulnerable versions"
+msgstr "Verhindern Sie das Ignorieren von schadhaften Versionen"
+
+msgid "Priority Email Support"
+msgstr "Prioritäre E-Mail-Support"
+
+msgid "Reason"
+msgstr "Grund"
+
+msgid "Recommended"
+msgstr "Empfohlen"
+
+msgid "Recommended action"
+msgstr "Empfohlene Maßnahme"
+
+#. Refund Policy
+msgid "Refund Policy"
+msgstr "Rückerstattungsrichtlinie"
+
+msgid ""
+"Refunds will be offered at our sole discretion and must meet all the "
+"following conditions <strong>fully</strong>:"
+msgstr ""
+"Rückerstattungen werden nach unserem alleinigen Ermessen angeboten und "
+"müssen alle folgenden Bedingungen <strong>vollständig</strong> erfüllen:"
+
+msgid ""
+"Refunds will not be granted for missing feature(s). If you are not sure we "
+"support a specific feature, please contact us first."
+msgstr ""
+"Es werden keine Rückerstattungen aufgrund fehlender Funktion(en) gewährt. "
+"Falls Sie nicht wissen, ob unser Plugin eine bestimmte Funktion enthält, "
+"kontaktieren Sie uns bitte zuerst."
+
+msgid "Refunds will not be granted if you simply decide not to use the plugin."
+msgstr ""
+"Rückerstattungen werden nicht gewährt, wenn Sie sich einfach dazu "
+"entscheiden, das Plugin nicht zu verwenden."
+
+msgid "Remove confirmation popup"
+msgstr "Bestätigungspopup entfernen"
+
+msgid ""
+"Removes the confirmation popup when ignoring an update. The default number "
+"of days will automatically be applied."
+msgstr ""
+"Entfernt das Bestätigungspopup beim Ignorieren eines Aktualisierungen. Die "
+"Standardanzahl von Tagen wird automatisch angewendet."
+
+msgid "Review the \"%s\" or \"%s\" page to learn more and take action."
+msgstr ""
+
+msgid "Screenshots"
+msgstr "Screenshots"
+
+msgid "See warnings from the \"%s\" and \"%s\" pages"
+msgstr "Sehen Sie Warnungen von den Seiten \"%s\" und \"%s\""
+
+msgid "Select plugin(s)"
+msgstr "Wählen Sie Plugin(s) aus"
+
+msgid "Send vulnerability emails"
+msgstr "Schwachstellen-E-Mails senden"
+
+msgid "Settings successfully updated"
+msgstr "Einstellungen erfolgreich aktualisiert"
+
+msgid "Severity"
+msgstr "Schweregrad"
+
+msgid "Show Screenshot"
+msgstr "Screenshot anzeigen"
+
+msgid ""
+"Since you have WordFence installed, you can deactivate this setting if you "
+"experience duplicate emails."
+msgstr ""
+"Da Sie WordFence installiert haben, können Sie diese Einstellung "
+"deaktivieren, wenn Sie doppelte E-Mails erhalten."
+
+msgid "Some of your plugins have known vulnerabilities"
+msgstr ""
+
+msgid "Stop Ignoring"
+msgstr "Ignorieren beenden"
+
+msgid "Stop ignoring the updates"
+msgstr "Das Ignorieren der Aktualisierungen beenden"
+
+msgid "Successfully ignored for %s days"
+msgstr "Diese Version wurde zuvor für %s Tage ignoriert"
+
+msgid "Successfully ignored for 1 day"
+msgstr "Diese Version wurde zuvor für 1 Tag ignoriert"
+
+msgid "Successfully ignored forever"
+msgstr "Erfolgreich dauerhaft ignoriert"
+
+msgid "Successfully ignored until next version"
+msgstr "Erfolgreich bis zur nächsten Version ignoriert"
+
+msgid "Thank you for using my plugin"
+msgstr "Vielen Dank, dass Sie mein Plugin verwenden"
+
+msgid "The %s version of the %s plugin is affected by a vulnerability"
+msgstr "Die Version %s des Plugins %s ist von einer Schwachstelle betroffen"
+
+msgid ""
+"The amount of days that will be used when not entering any number in the "
+"popup."
+msgstr ""
+"Die Anzahl der Tage, die verwendet werden, wenn keine Zahl im Popup "
+"eingegeben wird."
+
+msgid ""
+"The currently available update for the following plugin <strong>is ignored "
+"for too long</strong>:"
+msgid_plural ""
+"The currently available updates for the following plugins <strong>are "
+"ignored for too long</strong>:"
+msgstr[0] ""
+"Das derzeit verfügbare Aktualisierung für das folgende Plugin <strong>wurde "
+"zu lange ignoriert</strong>:"
+msgstr[1] ""
+"Die derzeit verfügbaren Updates für die folgenden Plugins <strong>wurden zu "
+"lange ignoriert</strong>:"
+
+msgid ""
+"The following ignored plugin updates have expired. You may leave them, or "
+"delete them (risk-free) from the database"
+msgstr ""
+"Die folgenden ignorierten Plugin-Aktualisierungen sind abgelaufen. Sie "
+"können sie in der Datenbank belassen oder (risikofrei) löschen. "
+
+msgid "The following plugin <strong>cannot currently be updated</strong>:"
+msgid_plural ""
+"The following plugins <strong>cannot currently be updated</strong>:"
+msgstr[0] ""
+"Das folgende Plugin <strong>kann derzeit nicht aktualisiert werden</strong>:"
+msgstr[1] ""
+"Die folgenden Plugins <strong>können derzeit nicht aktualisiert "
+"werden</strong>:"
+
+msgid "The following plugin <strong>has a known vulnerability</strong>:"
+msgid_plural ""
+"The following plugins <strong>have known vulnerabilities</strong>:"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"The following plugin updates are currently automatically ignored, as per "
+"your Autopilot settings"
+msgstr ""
+"Die folgenden Plugin-Aktualisierungen werden derzeit automatisch ignoriert, "
+"gemäß Ihren Autopilot-Einstellungen"
+
+msgid ""
+"The following plugin updates are currently ignored until they expire, or "
+"until the next version releases"
+msgstr ""
+"Die folgenden Plugin-Aktualisierungen werden derzeit ignoriert, bis sie "
+"ablaufen, oder bis die nächste Version veröffentlicht wird"
+
+msgid "The following plugin updates are PERMANENTLY IGNORED"
+msgstr "Die folgenden Plugin-Aktualisierungen werden DAUERHAFT IGNORIERT"
+
+msgid ""
+"The following plugin updates are PERMANENTLY IGNORED, and may represent "
+"security risks"
+msgstr ""
+"Die folgenden Plugin-Aktualisierungen werden DAUERHAFT IGNORIERT und können "
+"Sicherheitsrisiken darstellen"
+
+msgid "The new versions of these plugins will never be automatically ignored."
+msgstr ""
+"Die neuen Versionen dieser Plugins werden niemals automatisch ignoriert."
+
+msgid ""
+"The plugin works out of the box, without needing to configure extra settings."
+msgstr ""
+"Das Plugin funktioniert sofort, ohne zusätzliche Einstellungen konfigurieren "
+"zu müssen."
+
+msgid "The Secret Key obtained from wordfence.com"
+msgstr "Der Geheimschlüssel, der von wordfence.com erhalten wurde"
+
+msgid "There is %s additional setting, only accessible via WP filter:"
+msgid_plural ""
+"There are %s additional settings, only accessible via WP filters:"
+msgstr[0] ""
+"Es gibt eine zusätzliche Einstellung, die nur über den WP-Filter zugänglich "
+"ist:"
+msgstr[1] ""
+"Es gibt %s zusätzliche Einstellungen, die nur über WP-Filter zugänglich sind:"
+
+#. Free Version Sidebar
+msgid ""
+"There is <span class=\"ispu-underline\">a PREMIUM version</span>. Here are "
+"its <span class=\"ispu-underline\">main features</span>:"
+msgstr ""
+"Es gibt eine <span class=\"ispu-underline\">PREMIUM-Version</span>. Hier "
+"sind ihre <span class=\"ispu-underline\">Hauptfunktionen</span>:"
+
+msgid "This email was sent to you by the %s plugin."
+msgstr "Diese E-Mail wurde Ihnen vom Plugin %s gesendet."
+
+msgid "This version was previously ignored for %s day"
+msgid_plural "This version was previously ignored for %s days"
+msgstr[0] "Diese Version wurde zuvor für %s Tag ignoriert"
+msgstr[1] "Diese Version wurde zuvor für %s Tage ignoriert"
+
+msgid "This version was released more than %s day ago"
+msgid_plural "This version was released more than %s days ago"
+msgstr[0] "Diese Version wurde vor mehr als 1 Tag veröffentlicht"
+msgstr[1] "Diese Version wurde vor mehr als %s Tagen veröffentlicht"
+
+msgid ""
+"To submit a refund request, please open a <a href=\"%s\">refund support "
+"ticket</a>."
+msgstr ""
+"Um eine Rückerstattungsanfrage zu stellen, öffnen Sie bitte ein <a "
+"href=\"%s\">Rückerstattungs Support-Ticket</a>."
+
+msgid "until next version"
+msgstr "bis zur nächsten Version"
+
+#| msgid "Update page"
+msgid "Updates page"
+msgstr "Aktualisierungen-Seite"
+
+msgid "Upgrade To Premium"
+msgstr "Premium kaufen"
+
+msgid "Upgrade to Premium and never worry about it again"
+msgstr "Premium holen um sorgenfrei zu sein"
+
+msgid "Vulnerability detected"
+msgstr "Schwachstelle erkannt"
+
+#. WordFence Email
+msgid "Vulnerability of %s severity detected in the %s plugin"
+msgstr "Schwachstelle des Schweregrades %s in dem Plugin %s erkannt"
+
+msgid ""
+"We accept all major credit cards including Visa, Mastercard, American "
+"Express, as well as PayPal payments."
+msgstr ""
+"Wir akzeptieren alle gängigen Kreditkarten (Visa, Mastercard, American "
+"Express) sowie PayPal-Zahlungen."
+
+msgid ""
+"We do not recommend completely disabling notices, since you may forget you "
+"ignored updates."
+msgstr ""
+"Wir empfehlen nicht, Benachrichtigungen vollständig zu deaktivieren, da Sie "
+"möglicherweise vergessen, Aktualisierungen ignoriert zu haben."
+
+msgid ""
+"We stand behind our plugin’s quality and your satisfaction with it is "
+"important to us."
+msgstr ""
+"Wir stehen hinter der Qualität unseres Plugins, Ihre Zufriedenheit damit ist "
+"uns wichtig."
+
+#. Info Tab
+msgid "What Does This Plugin Do?"
+msgstr "Was macht dieses Plugin?"
+
+msgid "What payment methods are accepted?"
+msgstr "Welche Zahlungsmethoden werden akzeptiert?"
+
+msgid "What's the time span for your contracts?"
+msgstr "Wie lange sind Ihre Verträge gültig?"
+
+msgid ""
+"When an admin notice is dismissed, it won't appear again for that number of "
+"days."
+msgstr ""
+"Wenn eine Admin-Benachrichtigung verworfen wird, wird sie in dieser Anzahl "
+"von Tagen nicht erneut angezeigt."
+
+msgid ""
+"Will not show the \"%s\" link when the version is a fix (e.g. going from 4.2."
+"5 to 4.2.6)."
+msgstr ""
+"Der \"%s\"-Link wird nicht angezeigt, wenn es sich um eine Fehlerkorrektur "
+"handelt (z.B. von 4.2.5 auf 4.2.6)."
+
+msgid "With this plugin, you can:"
+msgstr "Mit diesem Plugin können Sie:"
+
+msgid "WordFence Integration"
+msgstr "WordFence-Integration"
+
+msgid "WordFence integration instructions"
+msgstr "Anleitung zur WordFence-Integration"
+
+msgid "WordFence plugin not required"
+msgstr "WordFence-Plugin nicht erforderlich"
+
+msgid "WordFence Secret Key"
+msgstr "WordFence Geheimschlüssel"
+
+msgid "year"
+msgstr "Jahr"
+
+msgid ""
+"Yes we do! We stand behind the quality of our product and will refund 100% "
+"of your money if you experience an issue that makes the plugin unusable and "
+"we are unable to resolve it."
+msgstr ""
+"Ja, das tun wir! Wir stehen hinter der Qualität unseres Produkts und "
+"erstatten Ihnen 100%, wenn Sie ein Problem haben, das das Plugin unbrauchbar "
+"macht und wir es nicht lösen können."
+
+msgid ""
+"Yes! Automatic updates to our premium plugin are available free of charge as "
+"long as you stay our paying customer."
+msgstr ""
+"Ja! Automatische Aktualisierungen für unser Premium-Plugin stehen Ihnen "
+"kostenlos zur Verfügung, solange Sie unser zahlender Kunde bleiben."
+
+msgid ""
+"Yes! Top-notch customer support for our paid customers is key for a quality "
+"product, so we'll do our very best to resolve any issues you encounter via "
+"our support page."
+msgstr ""
+"Ja! Erstklassiger Kundensupport für unsere zahlenden Kunden ist enscheidend "
+"für ein qualitativ hochwertiges Produkt. Daher werden wir unser Bestes tun, "
+"um alle Probleme zu lösen, die Sie haben könnten."
+
+msgid ""
+"Yes! You can ask us any question by using our <a href=\"%s\">contact form</a>"
+"."
+msgstr ""
+"Ja! Sie können uns jede Frage stellen, indem Sie unser <a href=\"%s\">"
+"Kontaktformular</a> verwenden."
+
+#| msgid ""
+#| "Yes, if you ever decide that Ignore Single Update isn't the best plugin "
+#| "for your business, simply cancel your account from your Account panel."
+msgid ""
+"Yes, if you ever decide that %s isn't the best plugin for your business, "
+"simply cancel your account from your Account panel."
+msgstr ""
+"Ja, wenn Sie jemals feststellen, daß %s nicht das beste Plugin für Ihr "
+"Unternehmen ist, kündigen Sie einfach Ihr Konto über Ihr Kontopanel."
+
+msgid "You are currently ignoring %s plugin update."
+msgid_plural "You are currently ignoring %s plugin updates."
+msgstr[0] "Sie ignorieren derzeit %s Plugin-Aktualisierung."
+msgstr[1] "Sie ignorieren derzeit %s Plugin-Aktualisierungen."
+
+#. Admin Notices
+msgid "You are currently permanently ignoring updates for %s plugin."
+msgid_plural "You are currently permanently ignoring updates for %s plugins."
+msgstr[0] "Sie ignorieren derzeit Aktualisierungen dauerhaft für %s Plugin."
+msgstr[1] "Sie ignorieren derzeit Aktualisierungen dauerhaft für %s Plugins."
+
+msgid "You are within the first 14 days of the purchase of the plugin."
+msgstr ""
+"Sie befinden sich innerhalb der ersten 14 Tage nach dem Kauf des Plugins."
+
+#. Main tab
+msgid "You currently do not have any active ignored plugin updates."
+msgstr "Sie haben derzeit keine aktiven ignorierten Plugin-Aktualisierungen."
+
+msgid ""
+"You have attempted to resolve your issue(s) with our support team by opening "
+"a support ticket through the \"%s\" tab in the plugin’s admin settings."
+msgstr ""
+"Sie haben versucht, Ihr Problem mit unserem Support-Team zu lösen, indem Sie "
+"ein Support-Ticket über den Tab \"%s\" in den Admin-Einstellungen des "
+"Plugins geöffnet haben."
+
+msgid "You should avoid ignoring plugin updates for too long"
+msgstr "Sie sollten vermeiden, Plugin-Aktualisierungen zu lange zu ignorieren"
+
+msgid ""
+"You should avoid ignoring plugin updates for too long. If the update was "
+"problematic, a fix would most likely occur within 7 days."
+msgstr ""
+"Sie sollten vermeiden, Plugin-Aktualisierungen zu lange zu ignorieren. Wenn "
+"das Aktualisierung Probleme verursacht hat, wird wahrscheinlich innerhalb "
+"von 7 Tagen eine Korrektur erfolgen."
+
+msgid ""
+"You should never completely ignore future plugin updates, since they may "
+"contain important security fixes."
+msgstr ""
+"Sie sollten niemals zukünftige Plugin-Aktualisierungen vollständig "
+"ignorieren, da sie wichtige Sicherheitskorrekturen enthalten könnten."
+
+#. Health Tests
+msgid "You should never permanently ignore plugin updates"
+msgstr "Sie sollten niemals Plugin-Aktualisierungen dauerhaft ignorieren"
+
+#. Premium Tab
+msgid ""
+"Your current plan does not support Multisite. Please Upgrade to the Business "
+"plan to use the plugin on a Multisite install."
+msgstr ""
+"Ihr aktueller Plan unterstützt keine Multisite. Bitte rüsten Sie auf den "
+"Business-Plan auf, um das Plugin in einer Multisite-Installation zu "
+"verwenden."
+
+msgid "Your current version has a known vulnerability."
+msgstr "Ihre aktuelle Version weist eine bekannte Schwachstelle auf."
+
+msgid ""
+"Your issue(s) derives from not being able to install the plugin properly or "
+"get the plugin to perform its basic functions."
+msgstr ""
+"Ihre Probleme resultieren daraus, daß Sie das Plugin nicht ordnungsgemäß "
+"installieren können oder das Plugin seine grundlegenden Funktionen nicht "
+"ausführen kann."
+
+msgid ""
+"Your WordFence Secret Key may also be defined by adding the following in "
+"your functions.php:"
+msgstr ""
+"Ihr WordFence Geheimschlüssel kann auch definiert werden, indem Sie "
+"Folgendes in ihre functions.php hinzufügen:"

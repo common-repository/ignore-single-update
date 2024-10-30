@@ -1,0 +1,956 @@
+# Translation of Plugins - Ignore Single Plugin Update - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Ignore Single Plugin Update - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-10-24 09:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: fr_FR\n"
+"Project-Id-Version: Plugins - Ignore Single Plugin Update - Stable (latest "
+"release)\n"
+"Language-Team: Français"
+
+msgid ""
+"<a href=\"%s\">Click here</a> to refresh this page. If the configuration was "
+"successful, these instructions will have disappeared"
+msgstr ""
+"<a href=\"%s\">Cliquez ici</a> pour recharger cette page. Si la "
+"configuration s’est correctement effectuée, ces instructions auront disparu"
+
+msgid ""
+"<a href=\"%s\">Review your ignored updates</a> to ensure that it is really "
+"needed."
+msgstr ""
+"<a href=\"%s\">Consultez vos mises à jour ignorées</a> pour vous assurer que "
+"cela est bien nécessaire."
+
+msgid "Absolutely! You can upgrade or downgrade your plan at any time."
+msgstr ""
+"Absolument ! Vous pouvez passer sur une formule inférieure ou supérieure à "
+"tout moment."
+
+msgid "Activate it"
+msgstr "Activez-la"
+
+msgid "Activate it to automatically delay the apparition of new updates"
+msgstr ""
+"L’activer retardera automatiquement l’apparition des nouvelles mises à jour"
+
+msgid ""
+"Activate it to automatically delay the apparition of new updates for your "
+"chosen amount of days."
+msgstr ""
+"Activez-le pour automatiquement retarder l’apparition des nouvelles mises à "
+"jour pendant le nombre de jours de votre choix."
+
+msgid "Activate WordFence integration"
+msgstr "Activer l’intégration de WordFence"
+
+msgid "Activate WordFence integration and never worry about it again"
+msgstr "Activez l’intégration WordFence pour ne plus avoir à vous en soucier"
+
+msgid "Additional Settings"
+msgstr "Réglages supplémentaires"
+
+msgid ""
+"Adds an \"%s\" link to the popup to allow you to ignore all future versions "
+"of a plugin."
+msgstr ""
+"Ajoute un lien « %s » dans la fenêtre surgissante pour vous permettre "
+"d’ignorer toutes les futures versions d’une extension."
+
+msgid "Admin notices"
+msgstr "Notifications d’administration"
+
+msgid "All"
+msgstr "Toutes"
+
+msgid "All plans are year-to-year."
+msgstr "Toutes nos formules vont d’année en année."
+
+#. Settings Tab
+msgid "Allow to permanently ignore updates"
+msgstr "Permettre d’ignorer définitivement les mises à jour"
+
+#. Description of the plugin
+msgid ""
+"Allows to ignore a single plugin update for a certain number of days, or "
+"until its next version."
+msgstr ""
+"Permet d’ignorer une mise à jour d’extension pendant un nombre de jours au "
+"choix, ou jusqu’à ce qu’une autre version sorte."
+
+msgid "Already have a license key?"
+msgstr "Vous avez déjà une clé de license ?"
+
+msgid "An error occurred. Refresh the page and try again."
+msgstr "Une erreur s’est produite. Veuillez actualiser la page et réessayer."
+
+msgid "Any ulterior version"
+msgstr "Toutes les futures versions"
+
+msgid "Any version (Major + Minor + Patch)"
+msgstr "Toutes versions (Majeures + mineures + correctives)"
+
+msgid "Are you sure?"
+msgstr "Confirmez-vous ?"
+
+msgid "Automatically unignore vulnerable versions"
+msgstr "Dé-ignorez automatiquement les versions vulnérables"
+
+msgid "Autopilot"
+msgstr "Pilote automatique"
+
+msgid "Buy Now"
+msgstr "Acheter"
+
+msgid ""
+"By upgrading, you agree to this refund policy and relinquish any rights to "
+"subject it to any questions, judgment or legal actions."
+msgstr ""
+"En achetant la version Premium de notre extension, vous acceptez cette "
+"politique de remboursement et acceptez de ne pas la remettre en cause, ni de "
+"la soumettre à jugements ou actions en justice."
+
+msgid "Can I cancel my account at any time?"
+msgstr "Est-il possible de fermer mon compte à tout moment ?"
+
+msgid "Can I change my plan later on?"
+msgstr "Est-il possible de changer de formule plus tard ?"
+
+msgid "Changes the popups' design."
+msgstr "Change le design des fenêtres surgissantes."
+
+msgid "Check that you get a \"200\" response code"
+msgstr "Vérifiez que vous obtenez un code réponse « 200 »"
+
+msgid "Choose \"%s\" to automatically ignore any change in the X number"
+msgstr ""
+"Choisissez « %s » pour automatiquement ignorer les versions qui changent le "
+"numéro X"
+
+msgid "Choose \"%s\" to automatically ignore any change in the X or Y number"
+msgstr ""
+"Choisissez « %s » pour automatiquement ignorer les versions qui changent le "
+"numéro X ou Y"
+
+msgid "Choose \"%s\" to automatically ignore any version change"
+msgstr ""
+"Choisissez « %s » pour automatiquement ignorer toutes les nouvelles versions"
+
+msgid "Click here to display our refund policy."
+msgstr "Cliquez ici pour afficher notre politique de remboursement."
+
+msgid "Click on \"%s\""
+msgstr "Cliquez sur « %s »"
+
+msgid ""
+"Clicking on it prompts for a number of days for which the update notice "
+"should not be displayed, for this specific plugin."
+msgstr ""
+"Cliquer dessus vous demandera un nombre de jours pendant lesquels la "
+"notification de mise à jour n’apparaîtra pas, pour cette extension en "
+"particulier."
+
+msgid "Completely ignore future updates for a given plugin."
+msgstr ""
+"Complètement ignorer toutes les futures mises à jour de l’extension de votre "
+"choix."
+
+msgid "Controls from which severity level notifications should trigger."
+msgstr ""
+"Contrôle à partir de quel niveau de sévérité les notifications se "
+"déclencheront."
+
+msgid "Controls which admin notices to display."
+msgstr "Contrôle les notifications d’administration à afficher."
+
+msgid "Copy the generated Secret Key"
+msgstr "Copiez la clé secrète que vous avez générée"
+
+msgid "Create a FREE WordFence account"
+msgstr "Créez un compte WordFence gratuit"
+
+msgid "Critical"
+msgstr "Critique"
+
+msgid "Critical only"
+msgstr "Critiques uniquement"
+
+msgid "day(s)"
+msgstr "jour(s)"
+
+msgid "Days admin notices are dismissed for"
+msgstr "Jours d’omission des notifications d’administration"
+
+msgid "Days elapsed"
+msgstr "Jours passés"
+
+msgid "Default number of days"
+msgstr "Nombre de jours par défaut"
+
+msgid ""
+"Delay seeing potentially bugged plugin updates, by auto-ignoring new "
+"releases for a set number of days."
+msgstr ""
+"Retarder l’apparition de mises à jour potentiellement buggées, en ignorant "
+"automatiquement les nouvelles versions pendant un nombre de jours prédéfini."
+
+msgid "Delete All"
+msgstr "Tout supprimer"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Disable all"
+msgstr "Tout désactiver"
+
+msgid "Disabled"
+msgstr "Désactivé"
+
+msgid "Do I get updates for the premium plugin?"
+msgstr "Aurai-je des mises à jour pour la version Premium de l’extension ?"
+
+msgid "Do I need multiple licenses for Multisite?"
+msgstr "Faut-il plusieurs licenses pour une installation multisite ?"
+
+msgid "Do you offer refunds?"
+msgstr "Est-il possible de se faire rembourser ?"
+
+msgid "Do you offer support if I need help?"
+msgstr "Proposez-vous du support si j’ai besoin d’aide ?"
+
+msgid "Easily see what updates are currently ignored."
+msgstr "Facilement consulter quelles mises à jour sont actuellement ignorées."
+
+msgid "Email Support"
+msgstr "Support par e-mail"
+
+msgid ""
+"Entering 0 will postpone the re-apparition of the notice until the next "
+"plugin version."
+msgstr ""
+"Saisir un 0 ne fera réapparaître la notification de mise à jour que "
+"lorsqu’une nouvelle version sera sortie."
+
+msgid ""
+"Entering any number of days will postpone the re-apparition of the notice."
+msgstr ""
+"Saisir un nombre de jours reportera la réapparition de la notification de "
+"mise à jour."
+
+msgid "Exclude plugins from Autopilot"
+msgstr "Excluez des extensions du pilote automatique"
+
+msgid "for"
+msgstr "pendant"
+
+msgid "For how many days do you want to ignore version %s?"
+msgstr "Pendant combien de jours voulez-vous ignorer la version %s ?"
+
+msgid "FOREVER"
+msgstr "À JAMAIS"
+
+msgid "FREE"
+msgstr "GRATUIT"
+
+msgid "Free Trial"
+msgstr "Essai gratuit"
+
+#. FAQ
+msgid "Frequently Asked Questions"
+msgstr "Foire aux questions"
+
+msgid "Get informed in real time by email"
+msgstr "Recevez des informations en temps réel par e-mail"
+
+msgid "Get Premium"
+msgstr "Passer en version Premium"
+
+msgid "Get security warnings on your installed plugins"
+msgstr "Obtenez des avertissements de sécurité sur vos extensions installées"
+
+msgid "Given a versioning of \"X.Y.Z\":"
+msgstr "En considérant un versionnage « X.Y.Z » :"
+
+msgid "Go back to the WordFence page and click \"%s\""
+msgstr "Retournez sur la page WordFence et cliquez sur « %s »"
+
+msgid "Go to %s"
+msgstr "Allez dans %s"
+
+msgid "Here are some details on the vulnerability:"
+msgstr "Voici quelques détails sur la vulnérabilité :"
+
+msgid "High"
+msgstr "Élevée"
+
+msgid "How about only showing critical notices?"
+msgstr "Que penseriez-vous de ne montrer que les critiques ?"
+
+msgid "How To Use"
+msgstr "Comment s’en servir"
+
+msgid "I have other pre-sale questions, can you help?"
+msgstr "J’ai d’autres questions avant d’acheter. Puis-je vous les poser ?"
+
+msgid ""
+"If everything is properly set up, but these instructions do not disappear "
+"after page refresh, please <a href=\"%s\">contact support</a>."
+msgstr ""
+"Si vous avez tout bien configuré, mais que ces instructions ne disparaissent "
+"pas après le rechargement de la page, veuillez <a href=\"%s\">contacter "
+"l’assistance</a>."
+
+msgid ""
+"If you experience problems with the plugin, we will be happy to provide a "
+"full refund within 14 days of the original upgrade date."
+msgstr ""
+"Dans le cas où vous auriez des problèmes avec l’extension, nous pouvons vous "
+"offrir un remboursement intégral sous 14 jours à compter de la date d’achat."
+
+msgid ""
+"If you get a \"404\" response code, <a href=\"#\" class=\"wordfence-try-"
+"again\">click here</a>, then try steps 10 and 11 again"
+msgstr ""
+"Si vous obtenez un code de réponse « 404 », <a href=\"#\" class=\"wordfence-"
+"try-again\">cliquez ici</a>, puis recommencez les étapes 10 et 11"
+
+msgid "Ignore all future versions"
+msgstr "Ignorer toutes les futures versions"
+
+msgid ""
+"Ignore the latest version of the plugin of your choice, for the duration of "
+"your choice."
+msgstr ""
+"Ignorer la dernière version de l’extension de votre choix, pour la durée de "
+"votre choix."
+
+#. Update Screens
+msgid "Ignore update"
+msgstr "Ignorer MàJ"
+
+#. Menus and Tabs
+msgid "Ignored Plugin Updates"
+msgstr "Mises à jour d’extensions ignorées"
+
+msgid "Ignored Until"
+msgstr "Ignorée jusqu’au"
+
+msgid "Ignored Updates"
+msgstr "Mises à jour ignorées"
+
+msgid ""
+"Ignored updates can be unignored at any time by going in the \"%s\"->\"%s\" "
+"WP menu."
+msgstr ""
+"Les mises à jour ignorées peuvent être dé-ignorées à tout moment en allant "
+"dans le menu WP « %s »->« %s »."
+
+msgid "Ignored Version"
+msgstr "Version ignorée"
+
+msgid "In the \"%s\" field, enter this url:"
+msgstr "Dans le champ « %s », saisissez cette adresse :"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Installed Version"
+msgstr "Version installée"
+
+msgid "Integrate with WordFence to know about your plugins security issues."
+msgstr ""
+"Intégrer WordFence pour connaître les problèmes de sécurité de vos "
+"extensions."
+
+msgid ""
+"Integrate with WordFence to know if your installed plugin versions have "
+"newly discovered security flaws."
+msgstr ""
+"Intégrer WordFence pour savoir si les versions d’extensions que vous avez "
+"installées présentent des failles de sécurité récemment découvertes."
+
+msgid "Is there a setup fee?"
+msgstr "Y a-t-il des frais de mise en service ?"
+
+msgid ""
+"Issues caused by conflicts with 3rd party plugins, themes or other software "
+"will not provide grounds for a refund."
+msgstr ""
+"Les problèmes causés par des extensions, thèmes ou autres logiciels tiers ne "
+"constituent pas une raison valide pour un remboursement."
+
+msgid "It adds an \"%s\" link in the \"%s\" and \"%s\" WP screens."
+msgstr "Elle ajoute un lien « %s » dans les écrans WP « %s » et « %s »."
+
+msgid "Just make sure to replace xxxxxxxx by your actual key"
+msgstr "Assurez-vous de bien remplacer xxxxxxxx par votre clé"
+
+msgid "Learn more about this vulnerability"
+msgstr "En savoir plus sur cette vulnérabilité"
+
+msgid "Low"
+msgstr "Basse"
+
+msgid "Major + Minor versions"
+msgstr "Versions majeures + mineures"
+
+msgid "Major version"
+msgstr "Version majeure"
+
+msgid "Major versions"
+msgstr "Versions majeures"
+
+msgid "Medium"
+msgstr "Moyenne"
+
+msgid "Minimum severity"
+msgstr "Sévérité minimum"
+
+msgid "Minor version"
+msgstr "Version mineure"
+
+msgid "Misc"
+msgstr "Divers"
+
+msgid "Multisite Compatibility"
+msgstr "Compatiblité multisite"
+
+msgid "Never Ignore Critical Updates"
+msgstr "N’ignorez jamais des mises à jour critiques"
+
+msgid "New version released"
+msgstr "Nouvelle version sortie"
+
+msgid "Next version"
+msgstr "Version suivante"
+
+msgid "No Autopilot"
+msgstr "Pas de pilote automatique"
+
+msgid "No credit card required"
+msgstr "Aucune carte de crédit nécessaire"
+
+msgid "No Email Support"
+msgstr "Pas de support par e-mail"
+
+msgid "No Multisite Compatibility"
+msgstr "Pas de compatibilité multisite"
+
+msgid ""
+"No refunds will be granted after the first 14 days of the original purchase "
+"whatsoever."
+msgstr ""
+"Aucun remboursement ne sera accordé une fois que les 14 jours suivant la "
+"date initiale d’achat seront écoulés."
+
+msgid "No WordFence Integration"
+msgstr "Pas d’intégration WordFence"
+
+msgid ""
+"No! You only need one single Business license for the plugin to work on your "
+"entire multisite network."
+msgstr ""
+"Non ! Vous n’avez besoin que d’une seule license Business pour que "
+"l’extension fonctionne sur l’intégralité de votre réseau multisite."
+
+msgid "No. There are no setup fees on any of our plans."
+msgstr "Non. Aucune de nos formules n’a de frais de mise en service."
+
+msgid "None"
+msgstr "Aucune"
+
+msgid "Only integers are accepted"
+msgstr "Seuls les chiffres entiers sont acceptés"
+
+msgid "Paid WordFence plan not required"
+msgstr "Sans formule payante WordFence"
+
+msgid ""
+"Paste the generated Secret Key in the \"%s\" field below, and click \"%s\""
+msgstr ""
+"Collez la clé secrète que vous avez générée dans le champ « %s » ci-dessous, "
+"puis cliquez sur « %s »"
+
+msgid "Patch version"
+msgstr "Version corrective"
+
+msgid "Permanently ignoring future versions could lead to security issues."
+msgstr ""
+"Ignorer les futures versions de manière permanente peut conduire à des "
+"problèmes de sécurité."
+
+msgid "Plan Type:"
+msgstr "Type de formule :"
+
+msgid ""
+"Please <a href=\"%s\" target=\"_blank\">rate the plugin ★★★★★</a> to help "
+"keep its free version up-to-date & maintained. Thank you!"
+msgstr ""
+"Merci de <a href=\"%s\" target=\"_blank\">donner une note ★★★★★ à "
+"l’extension</a> pour aider à garder sa version gratuite à jour !"
+
+msgid "Plugin updated"
+msgstr "Extension mise à jour"
+
+msgid "Plugin version:"
+msgstr "Version de l’extension :"
+
+msgid "Plugins ignored by Autopilot"
+msgstr "Extensions ignorées par le pilote automatique"
+
+msgid "Plugins page"
+msgstr "Page des extensions"
+
+msgid "Popup theme"
+msgstr "Thème des fenêtres surgissantes"
+
+msgid "Premium"
+msgstr "Premium"
+
+msgid "Prevent ignoring patch versions"
+msgstr "Empêcher d’ignorer les versions correctives"
+
+msgid "Prevent ignoring vulnerable versions"
+msgstr "Empêchez d’ignorer des versions vulnérables"
+
+msgid "Priority Email Support"
+msgstr "Support par e-mail prioritaire"
+
+msgid "Reason"
+msgstr "Raison"
+
+msgid "Recommended"
+msgstr "Recommandé"
+
+msgid "Recommended action"
+msgstr "Action recommandée"
+
+#. Refund Policy
+msgid "Refund Policy"
+msgstr "Politique de remboursement"
+
+msgid ""
+"Refunds will be offered at our sole discretion and must meet all the "
+"following conditions <strong>fully</strong>:"
+msgstr ""
+"Les demandes de remboursement seront accordées à notre discrétion et doivent "
+"<strong>pleinement répondre à toutes les conditions suivantes</strong> :"
+
+msgid ""
+"Refunds will not be granted for missing feature(s). If you are not sure we "
+"support a specific feature, please contact us first."
+msgstr ""
+"Aucun remboursement ne sera accordé pour cause de fonctionnalité·s "
+"manquante·s. Dans le cas où vous ne sauriez pas si notre extension comporte "
+"une fonctionnalité en particulier, veuillez d’abord nous contacter."
+
+msgid "Refunds will not be granted if you simply decide not to use the plugin."
+msgstr ""
+"Aucun remboursement ne sera accordé si vous décidez de ne tout simplement "
+"pas utiliser notre extension."
+
+msgid "Remove confirmation popup"
+msgstr "Supprimer la fenêtre surgissante de confirmation"
+
+msgid ""
+"Removes the confirmation popup when ignoring an update. The default number "
+"of days will automatically be applied."
+msgstr ""
+"Supprime la fenêtre surgissante de confirmation lorsque l’on souhaîte "
+"ignorer une mise à jour. Le nombre de jours par défaut sera automatiquement "
+"appliqué."
+
+msgid "Review the \"%s\" or \"%s\" page to learn more and take action."
+msgstr ""
+"Consultez la page « %s » ou « %s » pour en savoir plus et prendre une "
+"décision."
+
+msgid "Screenshots"
+msgstr "Captures d’écran"
+
+msgid "See warnings from the \"%s\" and \"%s\" pages"
+msgstr "Visualisez des avertissements depuis les pages « %s » et « %s »"
+
+msgid "Select plugin(s)"
+msgstr "Choisir extension·s"
+
+msgid "Send vulnerability emails"
+msgstr "Envoyer e-mails de vulnérabilités"
+
+msgid "Settings successfully updated"
+msgstr "Réglages bien enregistrés"
+
+#| msgid "Security"
+msgid "Severity"
+msgstr "Sévérité"
+
+msgid "Show Screenshot"
+msgstr "Afficher image"
+
+msgid ""
+"Since you have WordFence installed, you can deactivate this setting if you "
+"experience duplicate emails."
+msgstr ""
+"Comme vous avez WordFence d’installé, vous pouvez désactiver ce réglage si "
+"vous recevez des emails en double."
+
+msgid "Some of your plugins have known vulnerabilities"
+msgstr "Certaines de vos extensions ont des failles de sécurité"
+
+msgid "Stop Ignoring"
+msgstr "Ne plus ignorer"
+
+msgid "Stop ignoring the updates"
+msgstr "Arrêter d’ignorer les mises à jour"
+
+msgid "Successfully ignored for %s days"
+msgstr "Bien ignorée pour %s jours"
+
+msgid "Successfully ignored for 1 day"
+msgstr "Bien ignorée pour 1 jour"
+
+msgid "Successfully ignored forever"
+msgstr "Bien ignorée à jamais"
+
+msgid "Successfully ignored until next version"
+msgstr "Bien ignorée jusqu’à la version suivante"
+
+msgid "Thank you for using my plugin"
+msgstr "Merci d’utiliser mon extension"
+
+msgid "The %s version of the %s plugin is affected by a vulnerability"
+msgstr "La version %s de l’extension %s est affectée par une vulnérabilité"
+
+msgid ""
+"The amount of days that will be used when not entering any number in the "
+"popup."
+msgstr ""
+"Le nombre de jours utilisé lorsqu’aucun chiffre n’est saisi dans la fenêtre "
+"surgissante."
+
+msgid ""
+"The currently available update for the following plugin <strong>is ignored "
+"for too long</strong>:"
+msgid_plural ""
+"The currently available updates for the following plugins <strong>are "
+"ignored for too long</strong>:"
+msgstr[0] ""
+"La mise à jour actuellement disponible pour l’extension suivante <strong>est "
+"ignorée pour une trop grande durée</strong> :"
+msgstr[1] ""
+"Les mises à jour actuellement disponibles pour les extensions suivantes "
+"<strong>sont ignorées pour de trop grandes durées</strong> :"
+
+msgid ""
+"The following ignored plugin updates have expired. You may leave them, or "
+"delete them (risk-free) from the database"
+msgstr ""
+"Les mises à jour ignorées suivantes sont obsolètes. Vous pouvez les laisser "
+"telles quelles, ou les supprimer (sans le moindre risque) de la base de "
+"données"
+
+msgid "The following plugin <strong>cannot currently be updated</strong>:"
+msgid_plural ""
+"The following plugins <strong>cannot currently be updated</strong>:"
+msgstr[0] ""
+"L’extension suivante <strong>ne peut actuellement pas être mise à "
+"jour</strong> :"
+msgstr[1] ""
+"Les extensions suivantes <strong>ne peuvent actuellement pas être mises à "
+"jour</strong> :"
+
+msgid "The following plugin <strong>has a known vulnerability</strong>:"
+msgid_plural ""
+"The following plugins <strong>have known vulnerabilities</strong>:"
+msgstr[0] "L’extension suivante <strong>a une faille de sécurité</strong> :"
+msgstr[1] ""
+"Les extensions suivantes <strong>ont des failles de sécurité</strong> :"
+
+msgid ""
+"The following plugin updates are currently automatically ignored, as per "
+"your Autopilot settings"
+msgstr ""
+"Les mises à jour d’extensions suivantes sont actuellement automatiquement "
+"ignorées, en accord avec vos réglages de pilote automatique"
+
+msgid ""
+"The following plugin updates are currently ignored until they expire, or "
+"until the next version releases"
+msgstr ""
+"Les mises à jour d’extensions suivantes sont actuellement ignorées jusqu’à "
+"ce qu’elles arrivent à expiration ou qu’une nouvelle version sorte"
+
+msgid "The following plugin updates are PERMANENTLY IGNORED"
+msgstr "Les mises à jour d’extensions suivantes sont ignorées définitivement"
+
+msgid ""
+"The following plugin updates are PERMANENTLY IGNORED, and may represent "
+"security risks"
+msgstr ""
+"Les mises à jour d’extensions suivantes sont IGNORÉES DEFINITIVEMENT et "
+"peuvent conduire à des problèmes de sécurité"
+
+msgid "The new versions of these plugins will never be automatically ignored."
+msgstr ""
+"Les nouvelles versions de ces extensions ne seront jamais automatiquement "
+"ignorées."
+
+msgid ""
+"The plugin works out of the box, without needing to configure extra settings."
+msgstr ""
+"L’extension fonctionne dès son activation, sans avoir forcément besoin de "
+"réglages supplémentaires."
+
+msgid "The Secret Key obtained from wordfence.com"
+msgstr "La clé secrète obtenue sur wordfence.com"
+
+msgid "There is %s additional setting, only accessible via WP filter:"
+msgid_plural ""
+"There are %s additional settings, only accessible via WP filters:"
+msgstr[0] ""
+"Il y a %s réglage supplémentaire, seulement accessible via filtre WordPress :"
+msgstr[1] ""
+"Il y a %s réglages supplémentaires, seulement accessibles via filtres "
+"WordPress :"
+
+#. Free Version Sidebar
+msgid ""
+"There is <span class=\"ispu-underline\">a PREMIUM version</span>. Here are "
+"its <span class=\"ispu-underline\">main features</span>:"
+msgstr ""
+"Il y a une <span class=\"ispu-underline\">version PREMIUM</span>. Voici ces "
+"<span class=\"ispu-underline\">fonctionnalités principales</span> :"
+
+msgid "This email was sent to you by the %s plugin."
+msgstr "Cet e-mail vous a été envoyé par l’extension %s."
+
+msgid "This version was previously ignored for %s day"
+msgid_plural "This version was previously ignored for %s days"
+msgstr[0] "Cette version a été ignorée pendant %s jour"
+msgstr[1] "Cette version a été ignorée pendant %s jours"
+
+msgid "This version was released more than %s day ago"
+msgid_plural "This version was released more than %s days ago"
+msgstr[0] "Cette version est sortie il y a plus de %s jour"
+msgstr[1] "Cette version est sortie il y a plus de %s jours"
+
+msgid ""
+"To submit a refund request, please open a <a href=\"%s\">refund support "
+"ticket</a>."
+msgstr ""
+"Pour effectuer votre demande de remboursement, veuillez ouvrir un <a "
+"href=\"%s\">ticket d’assistance</a>."
+
+msgid "Try Free For 30 Days"
+msgstr "Essayer gratuitement pendant 30 jours"
+
+msgid "until next version"
+msgstr "jusqu’à la prochaine version"
+
+msgid "Updates page"
+msgstr "Page des mises à jour"
+
+msgid "Upgrade To Premium"
+msgstr "Mise à niveau vers Premium"
+
+msgid "Upgrade to Premium and never worry about it again"
+msgstr "Mettre à niveau vers Premium pour ne plus avoir à vous en soucier"
+
+msgid "Vulnerability detected"
+msgstr "Vulnérabilité détectée"
+
+#. WordFence Email
+msgid "Vulnerability of %s severity detected in the %s plugin"
+msgstr "Vulnérabilité de sévérité %s détectée dans l’extension %s"
+
+msgid ""
+"We accept all major credit cards including Visa, Mastercard, American "
+"Express, as well as PayPal payments."
+msgstr ""
+"Nous acceptons toutes les principales carte de crédit (Visa, Mastercard, "
+"American Express), et également les paiements par PayPal."
+
+msgid ""
+"We do not recommend completely disabling notices, since you may forget you "
+"ignored updates."
+msgstr ""
+"Nous ne recommandons pas de complètement désactiver les notifications, car "
+"vous pourriez tout simplement oublier que vous avez ignoré des mises à jour."
+
+msgid ""
+"We stand behind our plugin’s quality and your satisfaction with it is "
+"important to us."
+msgstr ""
+"Nous avons entièrement confiance en la qualité de notre extension. Votre "
+"satisfaction envers son utilisation nous est donc primordiale."
+
+#. Info Tab
+msgid "What Does This Plugin Do?"
+msgstr "Que fait cette extension ?"
+
+msgid "What payment methods are accepted?"
+msgstr "Quels moyens de paiement acceptez-vous ?"
+
+msgid "What's the time span for your contracts?"
+msgstr "Combien de temps durent vos contrats ?"
+
+msgid ""
+"When an admin notice is dismissed, it won't appear again for that number of "
+"days."
+msgstr ""
+"Lorsque qu’une notification d’administration est ignorée, elle n’apparaîtra "
+"pas de nouveau avant que ce nombre de jours soit écoulé."
+
+msgid ""
+"Will not show the \"%s\" link when the version is a fix (e.g. going from 4.2."
+"5 to 4.2.6)."
+msgstr ""
+"N’affichera pas le lien « %s » lorsque la version est corrective (par ex., "
+"de 4.2.5 à 4.2.6)."
+
+msgid "With this plugin, you can:"
+msgstr "Avec cette extension, vous pouvez :"
+
+msgid "Without WordFence plugin"
+msgstr "Sans extension WordFence"
+
+msgid "WordFence Integration"
+msgstr "Intégration WordFence"
+
+msgid "WordFence integration instructions"
+msgstr "Instructions pour l’intégration avec WordFence"
+
+msgid "WordFence Secret Key"
+msgstr "Clé secrète WordFence"
+
+msgid "year"
+msgstr "an"
+
+msgid ""
+"Yes we do! We stand behind the quality of our product and will refund 100% "
+"of your money if you experience an issue that makes the plugin unusable and "
+"we are unable to resolve it."
+msgstr ""
+"Absolument ! Nous avons confiance en la qualité de notre produit, et vous "
+"rembourserons à 100 % si votre problème rend l’extension inutilisable et que "
+"nous ne sommes pas en mesure de le résoudre."
+
+msgid ""
+"Yes! Automatic updates to our premium plugin are available free of charge as "
+"long as you stay our paying customer."
+msgstr ""
+"Oui ! Les mises à jour automatiques pour notre extension Premium sont "
+"disponibles gratuitement, tant que vous êtes à jour dans vos paiements "
+"annuels."
+
+msgid ""
+"Yes! Top-notch customer support for our paid customers is key for a quality "
+"product, so we'll do our very best to resolve any issues you encounter via "
+"our support page."
+msgstr ""
+"Oui ! Nous savons qu’offrir à nos clients une assistance clientèle hors-pair "
+"est un des ingrédients d’un produit de qualité. Nous ferons donc de notre "
+"mieux pour résoudre les problèmes que vous pourriez rencontrer."
+
+msgid ""
+"Yes! You can ask us any question by using our <a href=\"%s\">contact form</a>"
+"."
+msgstr ""
+"Oui ! Vous pouvez nous poser toutes vos questions via notre <a href=\"%s\">"
+"formulaire de contact</a>."
+
+msgid ""
+"Yes, if you ever decide that %s isn't the best plugin for your business, "
+"simply cancel your account from your Account panel."
+msgstr ""
+"Oui. Si jamais vous décidez que %s n’est pas une extension adéquate pour "
+"votre business, vous pouvez tout simplement annuler votre compte depuis "
+"l’onglet Compte."
+
+msgid "You are currently ignoring %s plugin update."
+msgid_plural "You are currently ignoring %s plugin updates."
+msgstr[0] "Vous ignorez actuellement %s mise à jour d’extension."
+msgstr[1] "Vous ignorez actuellement %s mises à jour d’extensions."
+
+#. Admin Notices
+msgid "You are currently permanently ignoring updates for %s plugin."
+msgid_plural "You are currently permanently ignoring updates for %s plugins."
+msgstr[0] ""
+"Vous ignorez actuellement définitivement les mises à jour pour %s extension."
+msgstr[1] ""
+"Vous ignorez actuellement définitivement les mises à jour pour %s extensions."
+
+msgid ""
+"You are currently using the Free Trial of the Supporter Version. All plugin "
+"features are unlocked."
+msgstr ""
+"Vous utilisez actuellement l’essai gratuit de la formule Supporter. Toutes "
+"les fonctionnalités de l’extension dont débloquées."
+
+msgid "You are within the first 14 days of the purchase of the plugin."
+msgstr "Cela fait maximum 14 jours que vous avez acheté l’extension."
+
+#. Main tab
+msgid "You currently do not have any active ignored plugin updates."
+msgstr "Actuellement vous n’ignorez  aucune mise à jour d’extensions."
+
+msgid ""
+"You have attempted to resolve your issue(s) with our support team by opening "
+"a support ticket through the \"%s\" tab in the plugin’s admin settings."
+msgstr ""
+"Vous avez essayé de résoudre votre problème en ouvrant un ticket "
+"d’assistance via l’onglet « %s » des paramètres de l’extension."
+
+msgid "You should avoid ignoring plugin updates for too long"
+msgstr ""
+"Vous devriez éviter d’ignorer les mises à jour d’extensions pendant trop "
+"longtemps"
+
+msgid ""
+"You should avoid ignoring plugin updates for too long. If the update was "
+"problematic, a fix would most likely occur within 7 days."
+msgstr ""
+"Vous devriez éviter d’ignorer les mises à jour d’extension pendant trop "
+"longtemps. Si la mise à jour était problématique, elle serait probablement "
+"corrigée sous 7 jours."
+
+msgid ""
+"You should never completely ignore future plugin updates, since they may "
+"contain important security fixes."
+msgstr ""
+"Vous ne devriez jamais complètement ignorer les futures mises à jour "
+"d’extensions, car elles peuvent contenir d’importants correctifs de sécurité."
+
+#. Health Tests
+msgid "You should never permanently ignore plugin updates"
+msgstr "Vous ne devriez jamais ignorer les mises à jour de façon permanente"
+
+#. Premium Tab
+msgid ""
+"Your current plan does not support Multisite. Please Upgrade to the Business "
+"plan to use the plugin on a Multisite install."
+msgstr ""
+"Votre formule actuelle ne prend pas multisite en charge. Veuillez choisir la "
+"formule Business afin d’utiliser l’extension sur une installation multisite."
+
+msgid "Your current version has a known vulnerability."
+msgstr "La version actuellement installée contient une faille de sécurité."
+
+msgid ""
+"Your issue(s) derives from not being able to install the plugin properly or "
+"get the plugin to perform its basic functions."
+msgstr ""
+"Votre problème est un problème d’installation, ou découle du fait qu’une des "
+"fonctions de base de l’extension ne fonctionne pas comme il faut."
+
+msgid ""
+"Your WordFence Secret Key may also be defined by adding the following in "
+"your functions.php:"
+msgstr ""
+"Vous pouvez également définir votre clé secrète WordFence en ajoutant ceci "
+"dans votre functions.php :"
